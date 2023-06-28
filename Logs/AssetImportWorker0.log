@@ -177,3 +177,10 @@ Received Import Request.
   artifactKey: Guid(6c2af3b9e34304ab39aca6f81a4f39ed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
 Start importing  using Guid(6c2af3b9e34304ab39aca6f81a4f39ed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000012 seconds  code(3) message(Unknown asset with GUID '6c2af3b9e34304ab39aca6f81a4f39ed')
   ERROR: Unknown asset with GUID '6c2af3b9e34304ab39aca6f81a4f39ed'
+========================================================================
+Received Import Request.
+  Time since last request: 440.684527 seconds.
+  path: 
+  artifactKey: Guid(6c2af3b9e34304ab39aca6f81a4f39ed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing  using Guid(6c2af3b9e34304ab39aca6f81a4f39ed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000039 seconds  code(3) message(Unknown asset with GUID '6c2af3b9e34304ab39aca6f81a4f39ed')
+  ERROR: Unknown asset with GUID '6c2af3b9e34304ab39aca6f81a4f39ed'
