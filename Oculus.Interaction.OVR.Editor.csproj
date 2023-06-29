@@ -9,7 +9,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{57f43bf8-09c5-c94f-83c4-35f30c1a7c04}</ProjectGuid>
+    <ProjectGuid>{e4b13f7f-8c0e-048a-6795-3a612221ccdb}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Oculus.Interaction.OVR.Editor</AssemblyName>
@@ -298,37 +298,37 @@
         <HintPath>/Applications/Unity/Hub/Editor/2021.3.19f1/PlaybackEngines/AndroidPlayer/UnityEditor.Android.Extensions.dll</HintPath>
     </Reference>
     <Reference Include="Unity.VisualScripting.IonicZip">
-        <HintPath>/Users/Vinod/Desktop/CCH/Volume Rendering/Quest-Render-Streaming/Library/PackageCache/com.unity.visualscripting@1.8.0/Editor/VisualScripting.Core/Dependencies/DotNetZip/Unity.VisualScripting.IonicZip.dll</HintPath>
+        <HintPath>/Users/Vinod/Documents/GitHub/VR-Volume-Rendering/Library/PackageCache/com.unity.visualscripting@1.8.0/Editor/VisualScripting.Core/Dependencies/DotNetZip/Unity.VisualScripting.IonicZip.dll</HintPath>
     </Reference>
     <Reference Include="log4netPlastic">
-        <HintPath>/Users/Vinod/Desktop/CCH/Volume Rendering/Quest-Render-Streaming/Library/PackageCache/com.unity.collab-proxy@2.0.0/Lib/Editor/PlasticSCM/log4netPlastic.dll</HintPath>
+        <HintPath>/Users/Vinod/Documents/GitHub/VR-Volume-Rendering/Library/PackageCache/com.unity.collab-proxy@2.0.0/Lib/Editor/PlasticSCM/log4netPlastic.dll</HintPath>
     </Reference>
     <Reference Include="ReportGeneratorMerged">
-        <HintPath>/Users/Vinod/Desktop/CCH/Volume Rendering/Quest-Render-Streaming/Library/PackageCache/com.unity.testtools.codecoverage@1.2.2/lib/ReportGenerator/ReportGeneratorMerged.dll</HintPath>
+        <HintPath>/Users/Vinod/Documents/GitHub/VR-Volume-Rendering/Library/PackageCache/com.unity.testtools.codecoverage@1.2.2/lib/ReportGenerator/ReportGeneratorMerged.dll</HintPath>
     </Reference>
     <Reference Include="websocket-sharp">
-        <HintPath>/Users/Vinod/Desktop/CCH/Volume Rendering/Quest-Render-Streaming/Library/PackageCache/com.unity.renderstreaming@3.1.0-exp.6/Runtime/Plugins/websocket-sharp.dll</HintPath>
+        <HintPath>/Users/Vinod/Documents/GitHub/VR-Volume-Rendering/Library/PackageCache/com.unity.renderstreaming@3.1.0-exp.6/Runtime/Plugins/websocket-sharp.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Plastic.Newtonsoft.Json">
-        <HintPath>/Users/Vinod/Desktop/CCH/Volume Rendering/Quest-Render-Streaming/Library/PackageCache/com.unity.collab-proxy@2.0.0/Lib/Editor/PlasticSCM/Unity.Plastic.Newtonsoft.Json.dll</HintPath>
+        <HintPath>/Users/Vinod/Documents/GitHub/VR-Volume-Rendering/Library/PackageCache/com.unity.collab-proxy@2.0.0/Lib/Editor/PlasticSCM/Unity.Plastic.Newtonsoft.Json.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Plastic.Antlr3.Runtime">
-        <HintPath>/Users/Vinod/Desktop/CCH/Volume Rendering/Quest-Render-Streaming/Library/PackageCache/com.unity.collab-proxy@2.0.0/Lib/Editor/PlasticSCM/Unity.Plastic.Antlr3.Runtime.dll</HintPath>
+        <HintPath>/Users/Vinod/Documents/GitHub/VR-Volume-Rendering/Library/PackageCache/com.unity.collab-proxy@2.0.0/Lib/Editor/PlasticSCM/Unity.Plastic.Antlr3.Runtime.dll</HintPath>
     </Reference>
     <Reference Include="Unity.VisualScripting.YamlDotNet">
-        <HintPath>/Users/Vinod/Desktop/CCH/Volume Rendering/Quest-Render-Streaming/Library/PackageCache/com.unity.visualscripting@1.8.0/Editor/VisualScripting.Core/Dependencies/YamlDotNet/Unity.VisualScripting.YamlDotNet.dll</HintPath>
+        <HintPath>/Users/Vinod/Documents/GitHub/VR-Volume-Rendering/Library/PackageCache/com.unity.visualscripting@1.8.0/Editor/VisualScripting.Core/Dependencies/YamlDotNet/Unity.VisualScripting.YamlDotNet.dll</HintPath>
     </Reference>
     <Reference Include="Unity.VisualScripting.TextureAssets">
-        <HintPath>/Users/Vinod/Desktop/CCH/Volume Rendering/Quest-Render-Streaming/Library/PackageCache/com.unity.visualscripting@1.8.0/Editor/VisualScripting.Core/EditorAssetResources/Unity.VisualScripting.TextureAssets.dll</HintPath>
+        <HintPath>/Users/Vinod/Documents/GitHub/VR-Volume-Rendering/Library/PackageCache/com.unity.visualscripting@1.8.0/Editor/VisualScripting.Core/EditorAssetResources/Unity.VisualScripting.TextureAssets.dll</HintPath>
     </Reference>
     <Reference Include="unityplastic">
-        <HintPath>/Users/Vinod/Desktop/CCH/Volume Rendering/Quest-Render-Streaming/Library/PackageCache/com.unity.collab-proxy@2.0.0/Lib/Editor/PlasticSCM/unityplastic.dll</HintPath>
+        <HintPath>/Users/Vinod/Documents/GitHub/VR-Volume-Rendering/Library/PackageCache/com.unity.collab-proxy@2.0.0/Lib/Editor/PlasticSCM/unityplastic.dll</HintPath>
     </Reference>
     <Reference Include="Unity.VisualScripting.Antlr3.Runtime">
-        <HintPath>/Users/Vinod/Desktop/CCH/Volume Rendering/Quest-Render-Streaming/Library/PackageCache/com.unity.visualscripting@1.8.0/Runtime/VisualScripting.Flow/Dependencies/NCalc/Unity.VisualScripting.Antlr3.Runtime.dll</HintPath>
+        <HintPath>/Users/Vinod/Documents/GitHub/VR-Volume-Rendering/Library/PackageCache/com.unity.visualscripting@1.8.0/Runtime/VisualScripting.Flow/Dependencies/NCalc/Unity.VisualScripting.Antlr3.Runtime.dll</HintPath>
     </Reference>
     <Reference Include="nunit.framework">
-        <HintPath>/Users/Vinod/Desktop/CCH/Volume Rendering/Quest-Render-Streaming/Library/PackageCache/com.unity.ext.nunit@1.0.6/net35/unity-custom/nunit.framework.dll</HintPath>
+        <HintPath>/Users/Vinod/Documents/GitHub/VR-Volume-Rendering/Library/PackageCache/com.unity.ext.nunit@1.0.6/net35/unity-custom/nunit.framework.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Android.Types">
         <HintPath>/Applications/Unity/Hub/Editor/2021.3.19f1/PlaybackEngines/AndroidPlayer/Unity.Android.Types.dll</HintPath>
@@ -712,33 +712,33 @@
         <HintPath>/Applications/Unity/Hub/Editor/2021.3.19f1/Unity.app/Contents/UnityReferenceAssemblies/unity-4.8-api/Facades/netstandard.dll</HintPath>
     </Reference>
     <Reference Include="UnityEditor.UI">
-        <HintPath>/Users/Vinod/Desktop/CCH/Volume Rendering/Quest-Render-Streaming/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
+        <HintPath>/Users/Vinod/Documents/GitHub/VR-Volume-Rendering/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.UI">
-        <HintPath>/Users/Vinod/Desktop/CCH/Volume Rendering/Quest-Render-Streaming/Library/ScriptAssemblies/UnityEngine.UI.dll</HintPath>
+        <HintPath>/Users/Vinod/Documents/GitHub/VR-Volume-Rendering/Library/ScriptAssemblies/UnityEngine.UI.dll</HintPath>
     </Reference>
     <Reference Include="UnityEditor.TestRunner">
-        <HintPath>/Users/Vinod/Desktop/CCH/Volume Rendering/Quest-Render-Streaming/Library/ScriptAssemblies/UnityEditor.TestRunner.dll</HintPath>
+        <HintPath>/Users/Vinod/Documents/GitHub/VR-Volume-Rendering/Library/ScriptAssemblies/UnityEditor.TestRunner.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.TestRunner">
-        <HintPath>/Users/Vinod/Desktop/CCH/Volume Rendering/Quest-Render-Streaming/Library/ScriptAssemblies/UnityEngine.TestRunner.dll</HintPath>
+        <HintPath>/Users/Vinod/Documents/GitHub/VR-Volume-Rendering/Library/ScriptAssemblies/UnityEngine.TestRunner.dll</HintPath>
     </Reference>
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="Oculus.Interaction.csproj">
-      <Project>{d061b4f6-94c2-dd80-4354-5147fa7cb174}</Project>
+      <Project>{5787c96b-8ff0-f81a-9a30-1bbc697b96ac}</Project>
       <Name>Oculus.Interaction</Name>
     </ProjectReference>
     <ProjectReference Include="Oculus.Interaction.Editor.csproj">
-      <Project>{fa4fd176-fa61-d095-38b5-e5512317a4df}</Project>
+      <Project>{ce107974-ec45-cd01-42b7-8d0e81e50e3d}</Project>
       <Name>Oculus.Interaction.Editor</Name>
     </ProjectReference>
     <ProjectReference Include="Oculus.Interaction.OVR.csproj">
-      <Project>{7f500690-acba-ac19-b5bf-0b392e192e72}</Project>
+      <Project>{3be8c3c7-6ece-bbdb-a579-41cfbb0c354c}</Project>
       <Name>Oculus.Interaction.OVR</Name>
     </ProjectReference>
     <ProjectReference Include="Oculus.VR.csproj">
-      <Project>{ea41f1d7-23e3-ed52-31c5-02b91b362f03}</Project>
+      <Project>{a67712c7-a62e-9fb1-29c1-586db3aef8b0}</Project>
       <Name>Oculus.VR</Name>
     </ProjectReference>
   </ItemGroup>

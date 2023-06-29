@@ -9,7 +9,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{cf5d92eb-690f-f064-3eee-3ce7575e9b34}</ProjectGuid>
+    <ProjectGuid>{6ab783ff-2028-4ff1-0ece-c8e66a6d5380}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Assembly-CSharp-Editor</AssemblyName>
@@ -322,37 +322,37 @@
         <HintPath>/Applications/Unity/Hub/Editor/2021.3.19f1/PlaybackEngines/AndroidPlayer/UnityEditor.Android.Extensions.dll</HintPath>
     </Reference>
     <Reference Include="Unity.VisualScripting.IonicZip">
-        <HintPath>/Users/Vinod/Desktop/CCH/Volume Rendering/Quest-Render-Streaming/Library/PackageCache/com.unity.visualscripting@1.8.0/Editor/VisualScripting.Core/Dependencies/DotNetZip/Unity.VisualScripting.IonicZip.dll</HintPath>
+        <HintPath>/Users/Vinod/Documents/GitHub/VR-Volume-Rendering/Library/PackageCache/com.unity.visualscripting@1.8.0/Editor/VisualScripting.Core/Dependencies/DotNetZip/Unity.VisualScripting.IonicZip.dll</HintPath>
     </Reference>
     <Reference Include="log4netPlastic">
-        <HintPath>/Users/Vinod/Desktop/CCH/Volume Rendering/Quest-Render-Streaming/Library/PackageCache/com.unity.collab-proxy@2.0.0/Lib/Editor/PlasticSCM/log4netPlastic.dll</HintPath>
+        <HintPath>/Users/Vinod/Documents/GitHub/VR-Volume-Rendering/Library/PackageCache/com.unity.collab-proxy@2.0.0/Lib/Editor/PlasticSCM/log4netPlastic.dll</HintPath>
     </Reference>
     <Reference Include="ReportGeneratorMerged">
-        <HintPath>/Users/Vinod/Desktop/CCH/Volume Rendering/Quest-Render-Streaming/Library/PackageCache/com.unity.testtools.codecoverage@1.2.2/lib/ReportGenerator/ReportGeneratorMerged.dll</HintPath>
+        <HintPath>/Users/Vinod/Documents/GitHub/VR-Volume-Rendering/Library/PackageCache/com.unity.testtools.codecoverage@1.2.2/lib/ReportGenerator/ReportGeneratorMerged.dll</HintPath>
     </Reference>
     <Reference Include="websocket-sharp">
-        <HintPath>/Users/Vinod/Desktop/CCH/Volume Rendering/Quest-Render-Streaming/Library/PackageCache/com.unity.renderstreaming@3.1.0-exp.6/Runtime/Plugins/websocket-sharp.dll</HintPath>
+        <HintPath>/Users/Vinod/Documents/GitHub/VR-Volume-Rendering/Library/PackageCache/com.unity.renderstreaming@3.1.0-exp.6/Runtime/Plugins/websocket-sharp.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Plastic.Newtonsoft.Json">
-        <HintPath>/Users/Vinod/Desktop/CCH/Volume Rendering/Quest-Render-Streaming/Library/PackageCache/com.unity.collab-proxy@2.0.0/Lib/Editor/PlasticSCM/Unity.Plastic.Newtonsoft.Json.dll</HintPath>
+        <HintPath>/Users/Vinod/Documents/GitHub/VR-Volume-Rendering/Library/PackageCache/com.unity.collab-proxy@2.0.0/Lib/Editor/PlasticSCM/Unity.Plastic.Newtonsoft.Json.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Plastic.Antlr3.Runtime">
-        <HintPath>/Users/Vinod/Desktop/CCH/Volume Rendering/Quest-Render-Streaming/Library/PackageCache/com.unity.collab-proxy@2.0.0/Lib/Editor/PlasticSCM/Unity.Plastic.Antlr3.Runtime.dll</HintPath>
+        <HintPath>/Users/Vinod/Documents/GitHub/VR-Volume-Rendering/Library/PackageCache/com.unity.collab-proxy@2.0.0/Lib/Editor/PlasticSCM/Unity.Plastic.Antlr3.Runtime.dll</HintPath>
     </Reference>
     <Reference Include="Unity.VisualScripting.YamlDotNet">
-        <HintPath>/Users/Vinod/Desktop/CCH/Volume Rendering/Quest-Render-Streaming/Library/PackageCache/com.unity.visualscripting@1.8.0/Editor/VisualScripting.Core/Dependencies/YamlDotNet/Unity.VisualScripting.YamlDotNet.dll</HintPath>
+        <HintPath>/Users/Vinod/Documents/GitHub/VR-Volume-Rendering/Library/PackageCache/com.unity.visualscripting@1.8.0/Editor/VisualScripting.Core/Dependencies/YamlDotNet/Unity.VisualScripting.YamlDotNet.dll</HintPath>
     </Reference>
     <Reference Include="Unity.VisualScripting.TextureAssets">
-        <HintPath>/Users/Vinod/Desktop/CCH/Volume Rendering/Quest-Render-Streaming/Library/PackageCache/com.unity.visualscripting@1.8.0/Editor/VisualScripting.Core/EditorAssetResources/Unity.VisualScripting.TextureAssets.dll</HintPath>
+        <HintPath>/Users/Vinod/Documents/GitHub/VR-Volume-Rendering/Library/PackageCache/com.unity.visualscripting@1.8.0/Editor/VisualScripting.Core/EditorAssetResources/Unity.VisualScripting.TextureAssets.dll</HintPath>
     </Reference>
     <Reference Include="unityplastic">
-        <HintPath>/Users/Vinod/Desktop/CCH/Volume Rendering/Quest-Render-Streaming/Library/PackageCache/com.unity.collab-proxy@2.0.0/Lib/Editor/PlasticSCM/unityplastic.dll</HintPath>
+        <HintPath>/Users/Vinod/Documents/GitHub/VR-Volume-Rendering/Library/PackageCache/com.unity.collab-proxy@2.0.0/Lib/Editor/PlasticSCM/unityplastic.dll</HintPath>
     </Reference>
     <Reference Include="Unity.VisualScripting.Antlr3.Runtime">
-        <HintPath>/Users/Vinod/Desktop/CCH/Volume Rendering/Quest-Render-Streaming/Library/PackageCache/com.unity.visualscripting@1.8.0/Runtime/VisualScripting.Flow/Dependencies/NCalc/Unity.VisualScripting.Antlr3.Runtime.dll</HintPath>
+        <HintPath>/Users/Vinod/Documents/GitHub/VR-Volume-Rendering/Library/PackageCache/com.unity.visualscripting@1.8.0/Runtime/VisualScripting.Flow/Dependencies/NCalc/Unity.VisualScripting.Antlr3.Runtime.dll</HintPath>
     </Reference>
     <Reference Include="nunit.framework">
-        <HintPath>/Users/Vinod/Desktop/CCH/Volume Rendering/Quest-Render-Streaming/Library/PackageCache/com.unity.ext.nunit@1.0.6/net35/unity-custom/nunit.framework.dll</HintPath>
+        <HintPath>/Users/Vinod/Documents/GitHub/VR-Volume-Rendering/Library/PackageCache/com.unity.ext.nunit@1.0.6/net35/unity-custom/nunit.framework.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Android.Types">
         <HintPath>/Applications/Unity/Hub/Editor/2021.3.19f1/PlaybackEngines/AndroidPlayer/Unity.Android.Types.dll</HintPath>
@@ -736,298 +736,314 @@
         <HintPath>/Applications/Unity/Hub/Editor/2021.3.19f1/Unity.app/Contents/UnityReferenceAssemblies/unity-4.8-api/Facades/netstandard.dll</HintPath>
     </Reference>
     <Reference Include="UnityEditor.TestRunner">
-        <HintPath>/Users/Vinod/Desktop/CCH/Volume Rendering/Quest-Render-Streaming/Library/ScriptAssemblies/UnityEditor.TestRunner.dll</HintPath>
+        <HintPath>/Users/Vinod/Documents/GitHub/VR-Volume-Rendering/Library/ScriptAssemblies/UnityEditor.TestRunner.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.TestRunner">
-        <HintPath>/Users/Vinod/Desktop/CCH/Volume Rendering/Quest-Render-Streaming/Library/ScriptAssemblies/UnityEngine.TestRunner.dll</HintPath>
+        <HintPath>/Users/Vinod/Documents/GitHub/VR-Volume-Rendering/Library/ScriptAssemblies/UnityEngine.TestRunner.dll</HintPath>
     </Reference>
     <Reference Include="Unity.VSCode.Editor">
-        <HintPath>/Users/Vinod/Desktop/CCH/Volume Rendering/Quest-Render-Streaming/Library/ScriptAssemblies/Unity.VSCode.Editor.dll</HintPath>
+        <HintPath>/Users/Vinod/Documents/GitHub/VR-Volume-Rendering/Library/ScriptAssemblies/Unity.VSCode.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TextMeshPro.Editor">
-        <HintPath>/Users/Vinod/Desktop/CCH/Volume Rendering/Quest-Render-Streaming/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
+        <HintPath>/Users/Vinod/Documents/GitHub/VR-Volume-Rendering/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Performance.Profile-Analyzer.Editor">
-        <HintPath>/Users/Vinod/Desktop/CCH/Volume Rendering/Quest-Render-Streaming/Library/ScriptAssemblies/Unity.Performance.Profile-Analyzer.Editor.dll</HintPath>
+        <HintPath>/Users/Vinod/Documents/GitHub/VR-Volume-Rendering/Library/ScriptAssemblies/Unity.Performance.Profile-Analyzer.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.WebRTC">
-        <HintPath>/Users/Vinod/Desktop/CCH/Volume Rendering/Quest-Render-Streaming/Library/ScriptAssemblies/Unity.WebRTC.dll</HintPath>
+        <HintPath>/Users/Vinod/Documents/GitHub/VR-Volume-Rendering/Library/ScriptAssemblies/Unity.WebRTC.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TestTools.CodeCoverage.Editor.OpenCover.Model">
-        <HintPath>/Users/Vinod/Desktop/CCH/Volume Rendering/Quest-Render-Streaming/Library/ScriptAssemblies/Unity.TestTools.CodeCoverage.Editor.OpenCover.Model.dll</HintPath>
+        <HintPath>/Users/Vinod/Documents/GitHub/VR-Volume-Rendering/Library/ScriptAssemblies/Unity.TestTools.CodeCoverage.Editor.OpenCover.Model.dll</HintPath>
     </Reference>
     <Reference Include="Unity.VisualScripting.State.Editor">
-        <HintPath>/Users/Vinod/Desktop/CCH/Volume Rendering/Quest-Render-Streaming/Library/ScriptAssemblies/Unity.VisualScripting.State.Editor.dll</HintPath>
+        <HintPath>/Users/Vinod/Documents/GitHub/VR-Volume-Rendering/Library/ScriptAssemblies/Unity.VisualScripting.State.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.VisualScripting.SettingsProvider.Editor">
-        <HintPath>/Users/Vinod/Desktop/CCH/Volume Rendering/Quest-Render-Streaming/Library/ScriptAssemblies/Unity.VisualScripting.SettingsProvider.Editor.dll</HintPath>
+        <HintPath>/Users/Vinod/Documents/GitHub/VR-Volume-Rendering/Library/ScriptAssemblies/Unity.VisualScripting.SettingsProvider.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TestTools.CodeCoverage.Editor.OpenCover.Mono.Reflection">
-        <HintPath>/Users/Vinod/Desktop/CCH/Volume Rendering/Quest-Render-Streaming/Library/ScriptAssemblies/Unity.TestTools.CodeCoverage.Editor.OpenCover.Mono.Reflection.dll</HintPath>
-    </Reference>
-    <Reference Include="Unity.InputSystem">
-        <HintPath>/Users/Vinod/Desktop/CCH/Volume Rendering/Quest-Render-Streaming/Library/ScriptAssemblies/Unity.InputSystem.dll</HintPath>
+        <HintPath>/Users/Vinod/Documents/GitHub/VR-Volume-Rendering/Library/ScriptAssemblies/Unity.TestTools.CodeCoverage.Editor.OpenCover.Mono.Reflection.dll</HintPath>
     </Reference>
     <Reference Include="UnityEditor.UI">
-        <HintPath>/Users/Vinod/Desktop/CCH/Volume Rendering/Quest-Render-Streaming/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
+        <HintPath>/Users/Vinod/Documents/GitHub/VR-Volume-Rendering/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.InputSystem">
+        <HintPath>/Users/Vinod/Documents/GitHub/VR-Volume-Rendering/Library/ScriptAssemblies/Unity.InputSystem.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Rider.Editor">
-        <HintPath>/Users/Vinod/Desktop/CCH/Volume Rendering/Quest-Render-Streaming/Library/ScriptAssemblies/Unity.Rider.Editor.dll</HintPath>
+        <HintPath>/Users/Vinod/Documents/GitHub/VR-Volume-Rendering/Library/ScriptAssemblies/Unity.Rider.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.WebRTC.Editor">
-        <HintPath>/Users/Vinod/Desktop/CCH/Volume Rendering/Quest-Render-Streaming/Library/ScriptAssemblies/Unity.WebRTC.Editor.dll</HintPath>
+        <HintPath>/Users/Vinod/Documents/GitHub/VR-Volume-Rendering/Library/ScriptAssemblies/Unity.WebRTC.Editor.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.SpatialTracking">
-        <HintPath>/Users/Vinod/Desktop/CCH/Volume Rendering/Quest-Render-Streaming/Library/ScriptAssemblies/UnityEngine.SpatialTracking.dll</HintPath>
+        <HintPath>/Users/Vinod/Documents/GitHub/VR-Volume-Rendering/Library/ScriptAssemblies/UnityEngine.SpatialTracking.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.UI">
-        <HintPath>/Users/Vinod/Desktop/CCH/Volume Rendering/Quest-Render-Streaming/Library/ScriptAssemblies/UnityEngine.UI.dll</HintPath>
+        <HintPath>/Users/Vinod/Documents/GitHub/VR-Volume-Rendering/Library/ScriptAssemblies/UnityEngine.UI.dll</HintPath>
     </Reference>
     <Reference Include="Unity.EditorCoroutines.Editor">
-        <HintPath>/Users/Vinod/Desktop/CCH/Volume Rendering/Quest-Render-Streaming/Library/ScriptAssemblies/Unity.EditorCoroutines.Editor.dll</HintPath>
+        <HintPath>/Users/Vinod/Documents/GitHub/VR-Volume-Rendering/Library/ScriptAssemblies/Unity.EditorCoroutines.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.XR.Management">
-        <HintPath>/Users/Vinod/Desktop/CCH/Volume Rendering/Quest-Render-Streaming/Library/ScriptAssemblies/Unity.XR.Management.dll</HintPath>
+        <HintPath>/Users/Vinod/Documents/GitHub/VR-Volume-Rendering/Library/ScriptAssemblies/Unity.XR.Management.dll</HintPath>
     </Reference>
     <Reference Include="Unity.XR.Oculus.Editor">
-        <HintPath>/Users/Vinod/Desktop/CCH/Volume Rendering/Quest-Render-Streaming/Library/ScriptAssemblies/Unity.XR.Oculus.Editor.dll</HintPath>
+        <HintPath>/Users/Vinod/Documents/GitHub/VR-Volume-Rendering/Library/ScriptAssemblies/Unity.XR.Oculus.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.RenderStreaming">
-        <HintPath>/Users/Vinod/Desktop/CCH/Volume Rendering/Quest-Render-Streaming/Library/ScriptAssemblies/Unity.RenderStreaming.dll</HintPath>
+        <HintPath>/Users/Vinod/Documents/GitHub/VR-Volume-Rendering/Library/ScriptAssemblies/Unity.RenderStreaming.dll</HintPath>
     </Reference>
     <Reference Include="Unity.VisualScripting.Flow.Editor">
-        <HintPath>/Users/Vinod/Desktop/CCH/Volume Rendering/Quest-Render-Streaming/Library/ScriptAssemblies/Unity.VisualScripting.Flow.Editor.dll</HintPath>
+        <HintPath>/Users/Vinod/Documents/GitHub/VR-Volume-Rendering/Library/ScriptAssemblies/Unity.VisualScripting.Flow.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.RenderStreaming.Editor">
-        <HintPath>/Users/Vinod/Desktop/CCH/Volume Rendering/Quest-Render-Streaming/Library/ScriptAssemblies/Unity.RenderStreaming.Editor.dll</HintPath>
+        <HintPath>/Users/Vinod/Documents/GitHub/VR-Volume-Rendering/Library/ScriptAssemblies/Unity.RenderStreaming.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.VisualStudio.Editor">
-        <HintPath>/Users/Vinod/Desktop/CCH/Volume Rendering/Quest-Render-Streaming/Library/ScriptAssemblies/Unity.VisualStudio.Editor.dll</HintPath>
+        <HintPath>/Users/Vinod/Documents/GitHub/VR-Volume-Rendering/Library/ScriptAssemblies/Unity.VisualStudio.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.XR.Management.Editor">
-        <HintPath>/Users/Vinod/Desktop/CCH/Volume Rendering/Quest-Render-Streaming/Library/ScriptAssemblies/Unity.XR.Management.Editor.dll</HintPath>
+        <HintPath>/Users/Vinod/Documents/GitHub/VR-Volume-Rendering/Library/ScriptAssemblies/Unity.XR.Management.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Timeline">
-        <HintPath>/Users/Vinod/Desktop/CCH/Volume Rendering/Quest-Render-Streaming/Library/ScriptAssemblies/Unity.Timeline.dll</HintPath>
+        <HintPath>/Users/Vinod/Documents/GitHub/VR-Volume-Rendering/Library/ScriptAssemblies/Unity.Timeline.dll</HintPath>
     </Reference>
     <Reference Include="Unity.VisualScripting.Core.Editor">
-        <HintPath>/Users/Vinod/Desktop/CCH/Volume Rendering/Quest-Render-Streaming/Library/ScriptAssemblies/Unity.VisualScripting.Core.Editor.dll</HintPath>
+        <HintPath>/Users/Vinod/Documents/GitHub/VR-Volume-Rendering/Library/ScriptAssemblies/Unity.VisualScripting.Core.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TextMeshPro">
-        <HintPath>/Users/Vinod/Desktop/CCH/Volume Rendering/Quest-Render-Streaming/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
+        <HintPath>/Users/Vinod/Documents/GitHub/VR-Volume-Rendering/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Subsystem.Registration">
-        <HintPath>/Users/Vinod/Desktop/CCH/Volume Rendering/Quest-Render-Streaming/Library/ScriptAssemblies/Unity.Subsystem.Registration.dll</HintPath>
+        <HintPath>/Users/Vinod/Documents/GitHub/VR-Volume-Rendering/Library/ScriptAssemblies/Unity.Subsystem.Registration.dll</HintPath>
     </Reference>
     <Reference Include="Unity.VisualScripting.Flow">
-        <HintPath>/Users/Vinod/Desktop/CCH/Volume Rendering/Quest-Render-Streaming/Library/ScriptAssemblies/Unity.VisualScripting.Flow.dll</HintPath>
+        <HintPath>/Users/Vinod/Documents/GitHub/VR-Volume-Rendering/Library/ScriptAssemblies/Unity.VisualScripting.Flow.dll</HintPath>
     </Reference>
     <Reference Include="Unity.PlasticSCM.Editor">
-        <HintPath>/Users/Vinod/Desktop/CCH/Volume Rendering/Quest-Render-Streaming/Library/ScriptAssemblies/Unity.PlasticSCM.Editor.dll</HintPath>
+        <HintPath>/Users/Vinod/Documents/GitHub/VR-Volume-Rendering/Library/ScriptAssemblies/Unity.PlasticSCM.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.VisualScripting.Core">
-        <HintPath>/Users/Vinod/Desktop/CCH/Volume Rendering/Quest-Render-Streaming/Library/ScriptAssemblies/Unity.VisualScripting.Core.dll</HintPath>
+        <HintPath>/Users/Vinod/Documents/GitHub/VR-Volume-Rendering/Library/ScriptAssemblies/Unity.VisualScripting.Core.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.XR.LegacyInputHelpers">
-        <HintPath>/Users/Vinod/Desktop/CCH/Volume Rendering/Quest-Render-Streaming/Library/ScriptAssemblies/UnityEngine.XR.LegacyInputHelpers.dll</HintPath>
+        <HintPath>/Users/Vinod/Documents/GitHub/VR-Volume-Rendering/Library/ScriptAssemblies/UnityEngine.XR.LegacyInputHelpers.dll</HintPath>
     </Reference>
     <Reference Include="Unity.VisualScripting.Shared.Editor">
-        <HintPath>/Users/Vinod/Desktop/CCH/Volume Rendering/Quest-Render-Streaming/Library/ScriptAssemblies/Unity.VisualScripting.Shared.Editor.dll</HintPath>
+        <HintPath>/Users/Vinod/Documents/GitHub/VR-Volume-Rendering/Library/ScriptAssemblies/Unity.VisualScripting.Shared.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Timeline.Editor">
-        <HintPath>/Users/Vinod/Desktop/CCH/Volume Rendering/Quest-Render-Streaming/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
+        <HintPath>/Users/Vinod/Documents/GitHub/VR-Volume-Rendering/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
     </Reference>
     <Reference Include="UnityEditor.XR.LegacyInputHelpers">
-        <HintPath>/Users/Vinod/Desktop/CCH/Volume Rendering/Quest-Render-Streaming/Library/ScriptAssemblies/UnityEditor.XR.LegacyInputHelpers.dll</HintPath>
+        <HintPath>/Users/Vinod/Documents/GitHub/VR-Volume-Rendering/Library/ScriptAssemblies/UnityEditor.XR.LegacyInputHelpers.dll</HintPath>
     </Reference>
     <Reference Include="Unity.XR.Oculus">
-        <HintPath>/Users/Vinod/Desktop/CCH/Volume Rendering/Quest-Render-Streaming/Library/ScriptAssemblies/Unity.XR.Oculus.dll</HintPath>
+        <HintPath>/Users/Vinod/Documents/GitHub/VR-Volume-Rendering/Library/ScriptAssemblies/Unity.XR.Oculus.dll</HintPath>
     </Reference>
     <Reference Include="UnityEditor.SpatialTracking">
-        <HintPath>/Users/Vinod/Desktop/CCH/Volume Rendering/Quest-Render-Streaming/Library/ScriptAssemblies/UnityEditor.SpatialTracking.dll</HintPath>
+        <HintPath>/Users/Vinod/Documents/GitHub/VR-Volume-Rendering/Library/ScriptAssemblies/UnityEditor.SpatialTracking.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TestTools.CodeCoverage.Editor">
-        <HintPath>/Users/Vinod/Desktop/CCH/Volume Rendering/Quest-Render-Streaming/Library/ScriptAssemblies/Unity.TestTools.CodeCoverage.Editor.dll</HintPath>
+        <HintPath>/Users/Vinod/Documents/GitHub/VR-Volume-Rendering/Library/ScriptAssemblies/Unity.TestTools.CodeCoverage.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.VisualScripting.State">
-        <HintPath>/Users/Vinod/Desktop/CCH/Volume Rendering/Quest-Render-Streaming/Library/ScriptAssemblies/Unity.VisualScripting.State.dll</HintPath>
+        <HintPath>/Users/Vinod/Documents/GitHub/VR-Volume-Rendering/Library/ScriptAssemblies/Unity.VisualScripting.State.dll</HintPath>
     </Reference>
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="Assembly-CSharp.csproj">
-      <Project>{3df72bdb-400c-5fc3-a056-2ac2402186fc}</Project>
+      <Project>{28779ea1-0831-ebf3-5e8f-e67b2fe7eb30}</Project>
       <Name>Assembly-CSharp</Name>
     </ProjectReference>
+    <ProjectReference Include="Unity.RenderStreaming.Sample.csproj">
+      <Project>{c9940a0c-db50-65e3-bd22-62ebed584661}</Project>
+      <Name>Unity.RenderStreaming.Sample</Name>
+    </ProjectReference>
     <ProjectReference Include="Meta.VoiceSDK.Mic.WebGL.csproj">
-      <Project>{5d17a60e-ca17-91fa-2d0d-1ca6fb15aaae}</Project>
+      <Project>{fd656f52-cba1-a58c-1621-fa7deec52200}</Project>
       <Name>Meta.VoiceSDK.Mic.WebGL</Name>
     </ProjectReference>
     <ProjectReference Include="AssistantCoreSDKEditor.csproj">
-      <Project>{ae0b41d1-9f0a-b6a1-bdd8-f55634280f6c}</Project>
+      <Project>{4fa6609f-9de0-2f66-8c13-3aef48ef160e}</Project>
       <Name>AssistantCoreSDKEditor</Name>
     </ProjectReference>
     <ProjectReference Include="Oculus.Voice.Demo.csproj">
-      <Project>{b1e8f54e-91ed-249c-b47f-a6bf9a524968}</Project>
+      <Project>{f41c2198-7e57-98eb-6900-c1448226ef97}</Project>
       <Name>Oculus.Voice.Demo</Name>
     </ProjectReference>
     <ProjectReference Include="Oculus.AudioManager.csproj">
-      <Project>{0b2d17ab-f2c3-2d3f-c1c1-ba56eee671be}</Project>
+      <Project>{3de338fd-a7fb-50db-793b-87db8f4b37b1}</Project>
       <Name>Oculus.AudioManager</Name>
     </ProjectReference>
     <ProjectReference Include="Meta.VoiceSDK.Mic.Common.csproj">
-      <Project>{e2504767-978b-1a41-b073-04bcbf4c9894}</Project>
+      <Project>{4e53f7bb-f240-23c4-e5c0-d6a90211e607}</Project>
       <Name>Meta.VoiceSDK.Mic.Common</Name>
     </ProjectReference>
     <ProjectReference Include="Oculus.Interaction.csproj">
-      <Project>{d061b4f6-94c2-dd80-4354-5147fa7cb174}</Project>
+      <Project>{5787c96b-8ff0-f81a-9a30-1bbc697b96ac}</Project>
       <Name>Oculus.Interaction</Name>
     </ProjectReference>
     <ProjectReference Include="AssistantCoreSDKRuntime.csproj">
-      <Project>{851fe4ae-8eeb-8342-c54d-9e2cf91f3ff7}</Project>
+      <Project>{be66175e-e320-02bb-cd61-28a55c900d78}</Project>
       <Name>AssistantCoreSDKRuntime</Name>
     </ProjectReference>
     <ProjectReference Include="Meta.WitAi.Conduit.csproj">
-      <Project>{a28efeaa-bbe0-6aa3-5413-fd2c1d0ce805}</Project>
+      <Project>{3d87681f-dad7-0bbd-a33d-b5983dc5cf15}</Project>
       <Name>Meta.WitAi.Conduit</Name>
     </ProjectReference>
     <ProjectReference Include="Oculus.AudioManager.Utils.Editor.csproj">
-      <Project>{cc108745-0cd7-0a98-bd41-e40c9d3ad39d}</Project>
+      <Project>{1aae306e-e9f2-83cd-4662-c0c4e6967d64}</Project>
       <Name>Oculus.AudioManager.Utils.Editor</Name>
     </ProjectReference>
     <ProjectReference Include="Oculus.Interaction.OVR.csproj">
-      <Project>{7f500690-acba-ac19-b5bf-0b392e192e72}</Project>
+      <Project>{3be8c3c7-6ece-bbdb-a579-41cfbb0c354c}</Project>
       <Name>Oculus.Interaction.OVR</Name>
     </ProjectReference>
     <ProjectReference Include="Oculus.Platform.csproj">
-      <Project>{ed756732-1313-10d7-d9c3-a850a4bedfec}</Project>
+      <Project>{a00bc620-90e0-ceab-4d6c-92b7d0afb563}</Project>
       <Name>Oculus.Platform</Name>
     </ProjectReference>
     <ProjectReference Include="Meta.Voice.Hub.Editor.csproj">
-      <Project>{e730dc78-b7e6-4214-cb47-bb4353b4d31c}</Project>
+      <Project>{15c38b63-d8be-2a0a-d67f-eabdd364aabf}</Project>
       <Name>Meta.Voice.Hub.Editor</Name>
     </ProjectReference>
+    <ProjectReference Include="Unity.RenderStreaming.Sample.Stats.csproj">
+      <Project>{842ef8d9-f5af-7987-155c-9e27f7286577}</Project>
+      <Name>Unity.RenderStreaming.Sample.Stats</Name>
+    </ProjectReference>
     <ProjectReference Include="Meta.WitAi.csproj">
-      <Project>{dfb6c4c7-8feb-a3cb-44a4-0c8c9f1e2a0a}</Project>
+      <Project>{b376dfb8-90b1-c814-e286-e268098c1199}</Project>
       <Name>Meta.WitAi</Name>
     </ProjectReference>
     <ProjectReference Include="Facebook.Wit.Dictation.Editor.csproj">
-      <Project>{3f83eabd-02bf-641a-71c7-bb97ac4ec228}</Project>
+      <Project>{ba81cb23-0d24-0a7c-fd3c-107194721bdd}</Project>
       <Name>Facebook.Wit.Dictation.Editor</Name>
     </ProjectReference>
     <ProjectReference Include="Meta.Voice.VSDKHub.Editor.csproj">
-      <Project>{80ec6fe6-b4c6-e828-e5ba-d306539fa450}</Project>
+      <Project>{38123892-782d-218e-028e-1fe23d601a31}</Project>
       <Name>Meta.Voice.VSDKHub.Editor</Name>
     </ProjectReference>
     <ProjectReference Include="Facebook.Wit.Dictation.csproj">
-      <Project>{75465c71-5db6-2c9d-8ac0-520d905124e4}</Project>
+      <Project>{3076576f-900f-60f4-c451-20fa71c789c0}</Project>
       <Name>Facebook.Wit.Dictation</Name>
     </ProjectReference>
     <ProjectReference Include="Oculus.VR.csproj">
-      <Project>{ea41f1d7-23e3-ed52-31c5-02b91b362f03}</Project>
+      <Project>{a67712c7-a62e-9fb1-29c1-586db3aef8b0}</Project>
       <Name>Oculus.VR</Name>
     </ProjectReference>
     <ProjectReference Include="Oculus.AudioManager.Audio.Editor.csproj">
-      <Project>{f6f37e9f-83fa-9ed1-f5cd-850e89b167a4}</Project>
+      <Project>{c53d66e8-f1c8-ed0a-b6f9-e8c6f9598a10}</Project>
       <Name>Oculus.AudioManager.Audio.Editor</Name>
     </ProjectReference>
     <ProjectReference Include="Meta.WitAI.Lib.Editor.csproj">
-      <Project>{38b7184f-7b3e-08c2-dc09-85391a53292d}</Project>
+      <Project>{55d79a10-3a19-6a72-017b-8cc761eed05d}</Project>
       <Name>Meta.WitAI.Lib.Editor</Name>
     </ProjectReference>
     <ProjectReference Include="Oculus.Spatializer.Editor.csproj">
-      <Project>{465e21a6-3b88-f3d5-6024-1a145477aba3}</Project>
+      <Project>{9b0c2bcb-005d-f60e-6662-0c59d90dd074}</Project>
       <Name>Oculus.Spatializer.Editor</Name>
     </ProjectReference>
     <ProjectReference Include="Meta.WitAi.TTS.csproj">
-      <Project>{5edffa0b-a69f-e7f7-dedd-77cf3c9a7cc4}</Project>
+      <Project>{5ae02a46-0ad2-c251-6996-813fcb6094d3}</Project>
       <Name>Meta.WitAi.TTS</Name>
     </ProjectReference>
     <ProjectReference Include="Meta.WitAi.TTS.Editor.csproj">
-      <Project>{2ac1a643-da8d-231a-c89a-2e7d4de5e7c2}</Project>
+      <Project>{e00bb185-620c-9f76-362b-b8b57adffdfd}</Project>
       <Name>Meta.WitAi.TTS.Editor</Name>
     </ProjectReference>
     <ProjectReference Include="Oculus.Interaction.OVR.Samples.csproj">
-      <Project>{d58f21da-f143-73b5-e80c-d1722464e3ac}</Project>
+      <Project>{b908d2a2-eec9-f402-e287-ea33dd88a7a5}</Project>
       <Name>Oculus.Interaction.OVR.Samples</Name>
     </ProjectReference>
     <ProjectReference Include="Oculus.VR.Editor.csproj">
-      <Project>{b497bad1-ecf2-bd2f-8588-6adb86a8a414}</Project>
+      <Project>{c69698c9-96de-cc38-bf57-9f37bac3627e}</Project>
       <Name>Oculus.VR.Editor</Name>
     </ProjectReference>
     <ProjectReference Include="Oculus.Interaction.Samples.Editor.csproj">
-      <Project>{defa8667-b63f-9cc7-d81d-94ed326bbe81}</Project>
+      <Project>{5fb70dd2-e0ef-f7e5-81c7-db1d704d3813}</Project>
       <Name>Oculus.Interaction.Samples.Editor</Name>
     </ProjectReference>
     <ProjectReference Include="Oculus.Interaction.Editor.csproj">
-      <Project>{fa4fd176-fa61-d095-38b5-e5512317a4df}</Project>
+      <Project>{ce107974-ec45-cd01-42b7-8d0e81e50e3d}</Project>
       <Name>Oculus.Interaction.Editor</Name>
     </ProjectReference>
     <ProjectReference Include="Oculus.Platform.Editor.csproj">
-      <Project>{97dfdb4b-5da5-b5c6-5dd3-a1127dff6321}</Project>
+      <Project>{024bfedb-25d6-7516-a275-ee31d7c27221}</Project>
       <Name>Oculus.Platform.Editor</Name>
     </ProjectReference>
     <ProjectReference Include="Meta.VoiceSDK.Mic.Other.csproj">
-      <Project>{2e0129b4-0f1a-1de7-a054-06a1e3aecff0}</Project>
+      <Project>{70312d01-7e74-6fc9-cb19-37df02b50777}</Project>
       <Name>Meta.VoiceSDK.Mic.Other</Name>
     </ProjectReference>
     <ProjectReference Include="Oculus.VR.Scripts.Editor.csproj">
-      <Project>{d4994b3f-bb63-e027-d5af-09d86f3a481c}</Project>
+      <Project>{ca02970b-b09a-1969-25d5-e8ee4b7c23fd}</Project>
       <Name>Oculus.VR.Scripts.Editor</Name>
     </ProjectReference>
     <ProjectReference Include="Oculus.Spatializer.csproj">
-      <Project>{ca07275c-e837-6ee6-ad75-be2d9545627b}</Project>
+      <Project>{18be5735-e30e-9f45-f431-4683b9fc44c0}</Project>
       <Name>Oculus.Spatializer</Name>
     </ProjectReference>
+    <ProjectReference Include="Unity.RenderStreaming.Sample.WebBrowserInput.csproj">
+      <Project>{7065a8ba-58b5-e98c-c51e-486fb0780633}</Project>
+      <Name>Unity.RenderStreaming.Sample.WebBrowserInput</Name>
+    </ProjectReference>
+    <ProjectReference Include="Unity.RenderStreaming.Sample.Editor.csproj">
+      <Project>{290ad9ee-cac7-45f4-5bee-2540d76901b2}</Project>
+      <Name>Unity.RenderStreaming.Sample.Editor</Name>
+    </ProjectReference>
     <ProjectReference Include="Meta.WitAi.Conduit.Editor.csproj">
-      <Project>{40a47aeb-4960-e948-8cff-a50ba8b07523}</Project>
+      <Project>{ceb3a929-b354-1083-fce8-8086a11b3862}</Project>
       <Name>Meta.WitAi.Conduit.Editor</Name>
     </ProjectReference>
     <ProjectReference Include="VoiceSDK.Editor.csproj">
-      <Project>{b0c28294-915c-1799-0553-53ff5a8a7da6}</Project>
+      <Project>{0bdee828-5840-6263-d7dd-9f253632a50c}</Project>
       <Name>VoiceSDK.Editor</Name>
     </ProjectReference>
     <ProjectReference Include="Oculus.Interaction.InterfaceSupport.csproj">
-      <Project>{e6531bd6-7620-be17-4b00-79d2d5d9d974}</Project>
+      <Project>{e651e618-d665-c89e-2e8c-47ad4e1b7eb3}</Project>
       <Name>Oculus.Interaction.InterfaceSupport</Name>
     </ProjectReference>
     <ProjectReference Include="Meta.WitAi.Editor.csproj">
-      <Project>{13f7f6c6-fd21-fe27-091e-aa8984cf4390}</Project>
+      <Project>{ac13008e-7a05-c4f3-bf9e-58c3d021bec9}</Project>
       <Name>Meta.WitAi.Editor</Name>
     </ProjectReference>
     <ProjectReference Include="Oculus.Interaction.OVR.Editor.csproj">
-      <Project>{57f43bf8-09c5-c94f-83c4-35f30c1a7c04}</Project>
+      <Project>{e4b13f7f-8c0e-048a-6795-3a612221ccdb}</Project>
       <Name>Oculus.Interaction.OVR.Editor</Name>
     </ProjectReference>
     <ProjectReference Include="VoiceSDK.Dictation.Editor.csproj">
-      <Project>{7cf60464-184d-4256-8cc0-5fee19356fd9}</Project>
+      <Project>{db1f1a8b-240f-6a66-ecc3-a90386692341}</Project>
       <Name>VoiceSDK.Dictation.Editor</Name>
     </ProjectReference>
     <ProjectReference Include="VoiceSDK.Dictation.Runtime.csproj">
-      <Project>{35f3980e-6c95-24ca-dafd-d8a8c1e0ff89}</Project>
+      <Project>{2e185688-1b2f-b3c3-b242-c896624dbca7}</Project>
       <Name>VoiceSDK.Dictation.Runtime</Name>
     </ProjectReference>
     <ProjectReference Include="Oculus.LipSync.Editor.csproj">
-      <Project>{c4b21e92-2f56-3080-c2a4-5f92eb3dece1}</Project>
+      <Project>{4730a5c7-999b-aab5-908b-cdb9ca4dc1f4}</Project>
       <Name>Oculus.LipSync.Editor</Name>
     </ProjectReference>
     <ProjectReference Include="Meta.WitAi.TTS.Samples.csproj">
-      <Project>{d34a4e8c-f8a1-3209-b191-92415f507fa4}</Project>
+      <Project>{a558bb02-bfd1-0c82-3f56-18df0823de4f}</Project>
       <Name>Meta.WitAi.TTS.Samples</Name>
     </ProjectReference>
     <ProjectReference Include="Oculus.LipSync.csproj">
-      <Project>{b964a1d4-0247-508b-728a-883768ac82f5}</Project>
+      <Project>{cbe8c27b-3a9e-cdfb-eb29-3518c3300261}</Project>
       <Name>Oculus.LipSync</Name>
     </ProjectReference>
     <ProjectReference Include="VoiceSDK.Runtime.csproj">
-      <Project>{94f9667a-26b9-ebcc-6ef4-2bc2ceebc455}</Project>
+      <Project>{5475dee3-b9bf-2935-c32a-30a31be9eaac}</Project>
       <Name>VoiceSDK.Runtime</Name>
     </ProjectReference>
     <ProjectReference Include="Meta.WitAi.Lib.csproj">
-      <Project>{18599901-ecf9-3c52-4e3c-c84959898ac7}</Project>
+      <Project>{b81376fe-487a-a8f0-a8b8-73ed0cb8b29d}</Project>
       <Name>Meta.WitAi.Lib</Name>
     </ProjectReference>
     <ProjectReference Include="Meta.Voice.Hub.Runtime.csproj">
-      <Project>{4ec51cc4-8713-9835-b7f7-297797d10b4a}</Project>
+      <Project>{7beab11b-b908-b4a6-857d-cddc57d4b613}</Project>
       <Name>Meta.Voice.Hub.Runtime</Name>
     </ProjectReference>
   </ItemGroup>
