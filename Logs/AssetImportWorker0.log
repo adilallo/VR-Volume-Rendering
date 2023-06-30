@@ -201,3 +201,1107 @@ Received Import Request.
   path: Packages/com.unity.webrtc/package.json
   artifactKey: Guid(4e49daa1f041a254db9b13501b9ab600) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
 Start importing Packages/com.unity.webrtc/package.json using Guid(4e49daa1f041a254db9b13501b9ab600) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '98774f7c6ceb415d3a864c3e2df7e6f3') in 0.177260 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 80.957872 seconds.
+  path: Assets/Samples/Unity Render Streaming/3.1.0-exp.6/Example/RenderStreamingSample.asset
+  artifactKey: Guid(039337c008e9a5c44a60f957eae3e450) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Samples/Unity Render Streaming/3.1.0-exp.6/Example/RenderStreamingSample.asset using Guid(039337c008e9a5c44a60f957eae3e450) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '81574cb347ecd9fa26230a3a756f048d') in 0.017259 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 181.019113 seconds.
+  path: Assets/Samples/Unity Render Streaming/3.1.0-exp.6/Example/Broadcast
+  artifactKey: Guid(d54e8b8e62b060745953b53cf3fa0e91) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Samples/Unity Render Streaming/3.1.0-exp.6/Example/Broadcast using Guid(d54e8b8e62b060745953b53cf3fa0e91) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e7b36e6c28d02fe244a4380f608c2d03') in 0.000694 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.140102 seconds.
+  path: Assets/Samples/Unity Render Streaming/3.1.0-exp.6/Example/Broadcast/CameraControl.inputactions
+  artifactKey: Guid(73fc86559d71147b18ea5f2623204ede) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Samples/Unity Render Streaming/3.1.0-exp.6/Example/Broadcast/CameraControl.inputactions using Guid(73fc86559d71147b18ea5f2623204ede) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ef3beb8f1a2e4104b05a5bf166b629a9') in 0.030505 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 11.184256 seconds.
+  path: Assets/Samples/Unity Render Streaming/3.1.0-exp.6/Example/Bidirectional
+  artifactKey: Guid(e6ec203b5c0d948af88efb7ab0c234a7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Samples/Unity Render Streaming/3.1.0-exp.6/Example/Bidirectional using Guid(e6ec203b5c0d948af88efb7ab0c234a7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3a5a654655cb15234ad6a5acc3c7b6dc') in 0.001386 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 2.741381 seconds.
+  path: Assets/Samples/Unity Render Streaming/3.1.0-exp.6/Example/Bidirectional/Bidirectional.unity
+  artifactKey: Guid(da10b86dde5e88a4abd624d6644a9b11) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Samples/Unity Render Streaming/3.1.0-exp.6/Example/Bidirectional/Bidirectional.unity using Guid(da10b86dde5e88a4abd624d6644a9b11) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2b34b5e5b4c7c0355afc16db767a171e') in 0.001311 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.869568 seconds.
+  path: Assets/Samples/Unity Render Streaming/3.1.0-exp.6/Example/Bidirectional/BidirectionalSample.cs
+  artifactKey: Guid(0ae98fcc4fa36bd48877f86930b988de) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Samples/Unity Render Streaming/3.1.0-exp.6/Example/Bidirectional/BidirectionalSample.cs using Guid(0ae98fcc4fa36bd48877f86930b988de) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9a4d43af551b7d4871922794cf9dcd4c') in 0.148055 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 17.282815 seconds.
+  path: Assets/Samples/Unity Render Streaming/3.1.0-exp.6/Example/ARFoundation/ARFoundationSample.cs
+  artifactKey: Guid(11a75a8d7bfb939449ddb4a45d07259d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Samples/Unity Render Streaming/3.1.0-exp.6/Example/ARFoundation/ARFoundationSample.cs using Guid(11a75a8d7bfb939449ddb4a45d07259d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9802739de3358a89ad7066ff3a441381') in 0.001222 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.726893 seconds.
+  path: Assets/Samples/Unity Render Streaming/3.1.0-exp.6/Example/ARFoundation/README.md
+  artifactKey: Guid(d67b381213d6e4386b4a290d356155bf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Samples/Unity Render Streaming/3.1.0-exp.6/Example/ARFoundation/README.md using Guid(d67b381213d6e4386b4a290d356155bf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'da2f1ee00d6d2f1dad229eb2cbd9c4d0') in 0.556033 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 12.744414 seconds.
+  path: Assets/Samples/Unity Render Streaming/3.1.0-exp.6/Example/Multiplay
+  artifactKey: Guid(eea2ac6a1e4970e48b9a7ba939d8c6ad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Samples/Unity Render Streaming/3.1.0-exp.6/Example/Multiplay using Guid(eea2ac6a1e4970e48b9a7ba939d8c6ad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '55b833529b46627e0347088731f9ad6c') in 0.001106 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.152162 seconds.
+  path: Assets/Samples/Unity Render Streaming/3.1.0-exp.6/Example/Multiplay/Guest.prefab
+  artifactKey: Guid(f99735f643c2ee344bba4094234fd984) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Samples/Unity Render Streaming/3.1.0-exp.6/Example/Multiplay/Guest.prefab using Guid(f99735f643c2ee344bba4094234fd984) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '720c51ec5530d35e35d66c6610f4d064') in 0.031198 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000082 seconds.
+  path: Assets/Samples/Unity Render Streaming/3.1.0-exp.6/Example/Multiplay/Player.prefab
+  artifactKey: Guid(091348b4c72dfb741927d9544fc7fbbd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Samples/Unity Render Streaming/3.1.0-exp.6/Example/Multiplay/Player.prefab using Guid(091348b4c72dfb741927d9544fc7fbbd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8cb4b77f0b1256190741997d1df23233') in 0.119248 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 7.641718 seconds.
+  path: Assets/Samples/Unity Render Streaming/3.1.0-exp.6/Example/Receiver
+  artifactKey: Guid(386664b03f5274caca8e6c97d2c00242) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Samples/Unity Render Streaming/3.1.0-exp.6/Example/Receiver using Guid(386664b03f5274caca8e6c97d2c00242) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5182adb6950038efebcbb92b417259e4') in 0.001468 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 596.082252 seconds.
+  path: Assets/Samples/Unity Render Streaming/3.1.0-exp.6/Example/WebBrowserInput/SimpleCameraController.cs
+  artifactKey: Guid(e8a636f62116c0a40bbfefdf876d4608) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Samples/Unity Render Streaming/3.1.0-exp.6/Example/WebBrowserInput/SimpleCameraController.cs using Guid(e8a636f62116c0a40bbfefdf876d4608) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b9849d833c35f9af908ed27059e13362') in 0.000921 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 2.350800 seconds.
+  path: Assets/Samples/Unity Render Streaming/3.1.0-exp.6/Example/WebBrowserInput/UIController.cs
+  artifactKey: Guid(c2b4eb99a8e1f63459b84b9faa1f4461) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Samples/Unity Render Streaming/3.1.0-exp.6/Example/WebBrowserInput/UIController.cs using Guid(c2b4eb99a8e1f63459b84b9faa1f4461) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ee679eedbe89728a15ab0b1d8fed0e16') in 0.001798 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 15.349449 seconds.
+  path: Assets/Samples/Unity Render Streaming/3.1.0-exp.6/Example/Menu/BackButtonManager.prefab
+  artifactKey: Guid(7aa5bec5b1e406445af144843fe4d62c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Samples/Unity Render Streaming/3.1.0-exp.6/Example/Menu/BackButtonManager.prefab using Guid(7aa5bec5b1e406445af144843fe4d62c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5414c47e84198e84f0b5b849d4d009f2') in 0.006476 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 5.235489 seconds.
+  path: Assets/Samples/Unity Render Streaming/3.1.0-exp.6/Example/Editor/Unity.RenderStreaming.Sample.Editor.asmdef
+  artifactKey: Guid(9a72d92d453fffa418a5baa1727f851e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Samples/Unity Render Streaming/3.1.0-exp.6/Example/Editor/Unity.RenderStreaming.Sample.Editor.asmdef using Guid(9a72d92d453fffa418a5baa1727f851e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0ab05132160dd305f15c8bc17b8a2e34') in 0.044657 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 2.893428 seconds.
+  path: Assets/Samples/Unity Render Streaming/3.1.0-exp.6/Example/Editor/SampleSetup.cs
+  artifactKey: Guid(4f56783b5ff347029a1b5e685020003d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Samples/Unity Render Streaming/3.1.0-exp.6/Example/Editor/SampleSetup.cs using Guid(4f56783b5ff347029a1b5e685020003d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd1b2dd4a23c7302a737c407bf8729623') in 0.001042 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 13.581608 seconds.
+  path: Assets/Samples/Unity Render Streaming/3.1.0-exp.6/Example/ARFoundation/ARFoundation.unity
+  artifactKey: Guid(b4bf2204f409346859b79249938241f3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Samples/Unity Render Streaming/3.1.0-exp.6/Example/ARFoundation/ARFoundation.unity using Guid(b4bf2204f409346859b79249938241f3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c3d9837320e30193319ec141dd71174e') in 0.001373 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 4.814730 seconds.
+  path: Assets/Samples/Unity Render Streaming/3.1.0-exp.6/Example/ARFoundation/AspectRatioFitterPatched.cs
+  artifactKey: Guid(b0f052816c2714604bd4a5a506eb7f43) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Samples/Unity Render Streaming/3.1.0-exp.6/Example/ARFoundation/AspectRatioFitterPatched.cs using Guid(b0f052816c2714604bd4a5a506eb7f43) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'aa89d00a6860393c9df4d08a92c4796f') in 0.001411 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 176.201985 seconds.
+  path: Assets/Samples/Unity Render Streaming/3.1.0-exp.6/Example/WebBrowserInput/WebBrowserInputChannelReceiver
+  artifactKey: Guid(004f7500100b6c64382185f2af5d6b5a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Samples/Unity Render Streaming/3.1.0-exp.6/Example/WebBrowserInput/WebBrowserInputChannelReceiver using Guid(004f7500100b6c64382185f2af5d6b5a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7fc07845b1f5b2ef5c9de5958db5faf8') in 0.000790 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.490531 seconds.
+  path: Assets/Samples/Unity Render Streaming/3.1.0-exp.6/Example/WebBrowserInput/WebBrowserInputChannelReceiver/Unity.RenderStreaming.Sample.WebBrowserInput.asmdef
+  artifactKey: Guid(87691ed9decf63846bb1eb6a338b76b8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Samples/Unity Render Streaming/3.1.0-exp.6/Example/WebBrowserInput/WebBrowserInputChannelReceiver/Unity.RenderStreaming.Sample.WebBrowserInput.asmdef using Guid(87691ed9decf63846bb1eb6a338b76b8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ed23d56df2f4d134b4c02cf31d4f08d2') in 0.002428 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 1.347755 seconds.
+  path: Assets/Samples/Unity Render Streaming/3.1.0-exp.6/Example/WebBrowserInput/WebBrowserInputChannelReceiver/WebBrowserInputChannelReceiver.cs
+  artifactKey: Guid(5bf104a15f68aae49b67b198ea88131e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Samples/Unity Render Streaming/3.1.0-exp.6/Example/WebBrowserInput/WebBrowserInputChannelReceiver/WebBrowserInputChannelReceiver.cs using Guid(5bf104a15f68aae49b67b198ea88131e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '029a31b60478e13b8f7d3a1fb999eb96') in 0.000862 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 3.266336 seconds.
+  path: Assets/Samples/Unity Render Streaming/3.1.0-exp.6/Example/WebBrowserInput/WebBrowserInputChannelReceiver/RemoteInput.cs
+  artifactKey: Guid(5845e247a39f8f846a51a2a5b09895ed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Samples/Unity Render Streaming/3.1.0-exp.6/Example/WebBrowserInput/WebBrowserInputChannelReceiver/RemoteInput.cs using Guid(5845e247a39f8f846a51a2a5b09895ed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cbd4d347f8a0238fde197daff21197ec') in 0.001344 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 457.272290 seconds.
+  path: Assets/Samples/Unity Render Streaming/3.1.0-exp.6/Example/Scripts/SampleManager.cs
+  artifactKey: Guid(a8a6107a68b5bce4cac619a3a2a37e88) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Samples/Unity Render Streaming/3.1.0-exp.6/Example/Scripts/SampleManager.cs using Guid(a8a6107a68b5bce4cac619a3a2a37e88) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b3b7d4fc301ab6e0d3ba0b93a55d58f2') in 0.001151 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 2.763259 seconds.
+  path: Assets/Samples/Unity Render Streaming/3.1.0-exp.6/Example/Scripts/SceneSelectUI.cs
+  artifactKey: Guid(8d6df25b96db2814daa5608049a81529) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Samples/Unity Render Streaming/3.1.0-exp.6/Example/Scripts/SceneSelectUI.cs using Guid(8d6df25b96db2814daa5608049a81529) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dcb7cf27635ed9162cd3dc291d1799ec') in 0.001473 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 2.915385 seconds.
+  path: Assets/Samples/Unity Render Streaming/3.1.0-exp.6/Example/Stats/StatsUI.prefab
+  artifactKey: Guid(562feaa3a43a01841a00c6ac89b133fb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Samples/Unity Render Streaming/3.1.0-exp.6/Example/Stats/StatsUI.prefab using Guid(562feaa3a43a01841a00c6ac89b133fb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd70cde5fd8b5e9a7ed123bd192be577a') in 0.009954 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 1524.881634 seconds.
+  path: Assets/Samples/Unity Render Streaming/3.1.0-exp.6/Example/Scripts/CopyTransform.cs
+  artifactKey: Guid(042622dd8b5b34449b0d20275a1bf1cc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Samples/Unity Render Streaming/3.1.0-exp.6/Example/Scripts/CopyTransform.cs using Guid(042622dd8b5b34449b0d20275a1bf1cc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd5c161260ee62fcc44cfa7ac6c0678b1') in 0.000769 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 90.094958 seconds.
+  path: Assets/Scripts/Render Streaming
+  artifactKey: Guid(1426b00392ad041779b79277c1a77046) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Render Streaming using Guid(1426b00392ad041779b79277c1a77046) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1359ca96748c78cd713a3048546086b6') in 0.000747 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 4.225800 seconds.
+  path: Assets/Scripts/Render Streaming/WebBrowserInputSample.cs
+  artifactKey: Guid(c4f4c813c940c489f87b0424dfb21382) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Render Streaming/WebBrowserInputSample.cs using Guid(c4f4c813c940c489f87b0424dfb21382) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3b82d6a6e489bfd84a0589f227b909cd') in 0.001065 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 68.019160 seconds.
+  path: Assets/Scripts/Render Streaming/WebBrowserInputSample.cs
+  artifactKey: Guid(c4f4c813c940c489f87b0424dfb21382) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Render Streaming/WebBrowserInputSample.cs using Guid(c4f4c813c940c489f87b0424dfb21382) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a089aed7e39f50560d5baecea21c8a50') in 0.000690 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 20.776174 seconds.
+  path: Assets/Scripts/Render Streaming/WebBrowserInputSample.cs
+  artifactKey: Guid(c4f4c813c940c489f87b0424dfb21382) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Render Streaming/WebBrowserInputSample.cs using Guid(c4f4c813c940c489f87b0424dfb21382) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ec507cf8b60d0588bdd92cbf24d1fa07') in 0.001113 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 27.111160 seconds.
+  path: Assets/Scripts/Render Streaming/WebBrowserInputSample.cs
+  artifactKey: Guid(c4f4c813c940c489f87b0424dfb21382) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Render Streaming/WebBrowserInputSample.cs using Guid(c4f4c813c940c489f87b0424dfb21382) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e44d660483edb6ac9d385e23513035eb') in 0.000635 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 35.893421 seconds.
+  path: Assets/Scripts/Render Streaming/WebBrowserInputSample.cs
+  artifactKey: Guid(c4f4c813c940c489f87b0424dfb21382) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Render Streaming/WebBrowserInputSample.cs using Guid(c4f4c813c940c489f87b0424dfb21382) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '10c356a210cfaaf8d26efe3cac81da2f') in 0.000803 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 22.412125 seconds.
+  path: Assets/Scripts/Render Streaming/VRRen.cs
+  artifactKey: Guid(c4f4c813c940c489f87b0424dfb21382) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Render Streaming/VRRen.cs using Guid(c4f4c813c940c489f87b0424dfb21382) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b70399e0b5bd8f995d748857fd0f59f0') in 0.000891 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 10.886743 seconds.
+  path: Assets/Scripts/Render Streaming/VRCameraController.cs
+  artifactKey: Guid(c4f4c813c940c489f87b0424dfb21382) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Render Streaming/VRCameraController.cs using Guid(c4f4c813c940c489f87b0424dfb21382) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'babd75dad19cfbb3f4bae71ad22004f7') in 0.001220 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 57.904761 seconds.
+  path: Assets/Scripts/Render Streaming/VRCameraController.cs
+  artifactKey: Guid(c4f4c813c940c489f87b0424dfb21382) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Render Streaming/VRCameraController.cs using Guid(c4f4c813c940c489f87b0424dfb21382) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f49bcd7a2bd15fdd90a4ea9f64c8bf16') in 0.000878 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001586 seconds.
+Begin MonoManager ReloadAssembly
+Thread 0x292e17000 may have been prematurely finalized
+Symbol file LoadedFromMemory doesn't match image /Users/Vinod/Documents/GitHub/VR-Volume-Rendering/Library/PackageCache/com.unity.visualscripting@1.8.0/Editor/VisualScripting.Core/Dependencies/DotNetZip/Unity.VisualScripting.IonicZip.dll
+Symbol file LoadedFromMemory doesn't match image /Users/Vinod/Documents/GitHub/VR-Volume-Rendering/Library/PackageCache/com.unity.visualscripting@1.8.0/Editor/VisualScripting.Core/Dependencies/YamlDotNet/Unity.VisualScripting.YamlDotNet.dll
+Native extension for Android target not found
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.81 ms, found 6 plugins.
+Preloading 2 native plugins for Editor in 1.06 ms.
+[Package Manager] Server::EnsureServerProcessIsRunning -- launch failed, reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] Cannot connect to Unity Package Manager local server
+[Package Manager] Server::EnsureServerProcessIsRunning -- launch failed, reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] Cannot connect to Unity Package Manager local server
+[Package Manager] Server::EnsureServerProcessIsRunning -- launch failed, reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] Cannot connect to Unity Package Manager local server
+Mono: successfully reloaded assembly
+- Completed reload, in  0.824 seconds
+Domain Reload Profiling:
+	ReloadAssembly (824ms)
+		BeginReloadAssembly (98ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (2ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (50ms)
+		EndReloadAssembly (667ms)
+			LoadAssemblies (34ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (218ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (30ms)
+			SetupLoadedEditorAssemblies (321ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (9ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (2ms)
+				BeforeProcessingInitializeOnLoad (43ms)
+				ProcessInitializeOnLoadAttributes (255ms)
+				ProcessInitializeOnLoadMethodAttributes (11ms)
+				AfterProcessingInitializeOnLoad (1ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (2ms)
+Platform modules already initialized, skipping
+Shader 'Oculus/OVRMRCameraFrameLit': fallback shader 'Alpha-Diffuse' not found
+Refreshing native plugins compatible for Editor in 4.11 ms, found 6 plugins.
+Preloading 2 native plugins for Editor in 1.06 ms.
+Unloading 5411 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 62 unused Assets / (258.2 KB). Loaded Objects now: 5991.
+Memory consumption went from 223.3 MB to 223.1 MB.
+Total: 3.031459 ms (FindLiveObjects: 0.177333 ms CreateObjectMapping: 0.065792 ms MarkObjects: 2.647875 ms  DeleteObjects: 0.139875 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:framework-osx-AVFoundation: e770b220cccbd017edd2c1fefb359320 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 64.094161 seconds.
+  path: Assets/Scripts/Render Streaming/VRCameraController.cs
+  artifactKey: Guid(c4f4c813c940c489f87b0424dfb21382) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Render Streaming/VRCameraController.cs using Guid(c4f4c813c940c489f87b0424dfb21382) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '59244e322e367e7f43647490d4a1ca7a') in 0.006877 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 103.869469 seconds.
+  path: Assets/Samples/Unity Render Streaming/3.1.0-exp.6/Example/RenderPipeline/HDRP/Settings/DefaultRenderingSettings.asset
+  artifactKey: Guid(c5a6037baa6cca640b2fe8d4fa07fa6b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Samples/Unity Render Streaming/3.1.0-exp.6/Example/RenderPipeline/HDRP/Settings/DefaultRenderingSettings.asset using Guid(c5a6037baa6cca640b2fe8d4fa07fa6b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8ac3bfd677455e0aba1c4e55efcd0953') in 0.001431 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000042 seconds.
+  path: Assets/Samples/Unity Render Streaming/3.1.0-exp.6/Example/RenderPipeline/HDRP/HDRenderPipelineAsset.asset
+  artifactKey: Guid(128f29c392c6e4f4d8084c06f5f65789) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Samples/Unity Render Streaming/3.1.0-exp.6/Example/RenderPipeline/HDRP/HDRenderPipelineAsset.asset using Guid(128f29c392c6e4f4d8084c06f5f65789) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '717e7f50e50338944e0f654eaa04babf') in 0.001338 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000040 seconds.
+  path: Assets/Oculus/Interaction/Samples/Objects/Props/BigRedButton/Textures/Podium/Podium_AlbedoTransparency.png
+  artifactKey: Guid(b9144ea4006475045917ff432df651ff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Oculus/Interaction/Samples/Objects/Props/BigRedButton/Textures/Podium/Podium_AlbedoTransparency.png using Guid(b9144ea4006475045917ff432df651ff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9edeab0ca72f960352733344cdcdb7df') in 0.373118 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.273262 seconds.
+  path: Assets/Samples/Unity Render Streaming/3.1.0-exp.6/Example/RenderPipeline/URP/UniversalRenderPipelineAsset.asset
+  artifactKey: Guid(b137304384a4d2446811baf50338255f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Samples/Unity Render Streaming/3.1.0-exp.6/Example/RenderPipeline/URP/UniversalRenderPipelineAsset.asset using Guid(b137304384a4d2446811baf50338255f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a32608999854bf7438915e278f1ee54f') in 0.002252 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 289.904020 seconds.
+  path: Assets/Scripts/Render Streaming/VRCameraController.cs
+  artifactKey: Guid(c4f4c813c940c489f87b0424dfb21382) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Render Streaming/VRCameraController.cs using Guid(c4f4c813c940c489f87b0424dfb21382) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dab748696a74644e7a832b0301e7d25a') in 0.000964 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001662 seconds.
+Begin MonoManager ReloadAssembly
+Thread 0x172f93000 may have been prematurely finalized
+Symbol file LoadedFromMemory doesn't match image /Users/Vinod/Documents/GitHub/VR-Volume-Rendering/Library/PackageCache/com.unity.visualscripting@1.8.0/Editor/VisualScripting.Core/Dependencies/DotNetZip/Unity.VisualScripting.IonicZip.dll
+Symbol file LoadedFromMemory doesn't match image /Users/Vinod/Documents/GitHub/VR-Volume-Rendering/Library/PackageCache/com.unity.visualscripting@1.8.0/Editor/VisualScripting.Core/Dependencies/YamlDotNet/Unity.VisualScripting.YamlDotNet.dll
+Native extension for Android target not found
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 1.00 ms, found 6 plugins.
+Preloading 2 native plugins for Editor in 1.17 ms.
+[Package Manager] Server::EnsureServerProcessIsRunning -- launch failed, reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] Cannot connect to Unity Package Manager local server
+[Package Manager] Server::EnsureServerProcessIsRunning -- launch failed, reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] Cannot connect to Unity Package Manager local server
+[Package Manager] Server::EnsureServerProcessIsRunning -- launch failed, reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] Cannot connect to Unity Package Manager local server
+Mono: successfully reloaded assembly
+- Completed reload, in  0.838 seconds
+Domain Reload Profiling:
+	ReloadAssembly (839ms)
+		BeginReloadAssembly (99ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (3ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (51ms)
+		EndReloadAssembly (675ms)
+			LoadAssemblies (36ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (224ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (30ms)
+			SetupLoadedEditorAssemblies (331ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (11ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (2ms)
+				BeforeProcessingInitializeOnLoad (47ms)
+				ProcessInitializeOnLoadAttributes (259ms)
+				ProcessInitializeOnLoadMethodAttributes (11ms)
+				AfterProcessingInitializeOnLoad (1ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (2ms)
+Platform modules already initialized, skipping
+Shader 'Oculus/OVRMRCameraFrameLit': fallback shader 'Alpha-Diffuse' not found
+Refreshing native plugins compatible for Editor in 4.16 ms, found 6 plugins.
+Preloading 2 native plugins for Editor in 1.08 ms.
+Unloading 5411 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 57 unused Assets / (255.1 KB). Loaded Objects now: 5996.
+Memory consumption went from 227.4 MB to 227.2 MB.
+Total: 3.044375 ms (FindLiveObjects: 0.161542 ms CreateObjectMapping: 0.060541 ms MarkObjects: 2.695792 ms  DeleteObjects: 0.125833 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:framework-osx-AVFoundation: e770b220cccbd017edd2c1fefb359320 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 63.099290 seconds.
+  path: Assets/Samples/Unity Render Streaming/3.1.0-exp.6/Example/WebBrowserInput/WebBrowserInputSample1.cs
+  artifactKey: Guid(ccf21bca5db00422eb216d658d914c43) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Samples/Unity Render Streaming/3.1.0-exp.6/Example/WebBrowserInput/WebBrowserInputSample1.cs using Guid(ccf21bca5db00422eb216d658d914c43) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a0c4aad0263f2670921166f1ddd7aad5') in 0.007262 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001550 seconds.
+Begin MonoManager ReloadAssembly
+Thread 0x172f93000 may have been prematurely finalized
+Symbol file LoadedFromMemory doesn't match image /Users/Vinod/Documents/GitHub/VR-Volume-Rendering/Library/PackageCache/com.unity.visualscripting@1.8.0/Editor/VisualScripting.Core/Dependencies/DotNetZip/Unity.VisualScripting.IonicZip.dll
+Symbol file LoadedFromMemory doesn't match image /Users/Vinod/Documents/GitHub/VR-Volume-Rendering/Library/PackageCache/com.unity.visualscripting@1.8.0/Editor/VisualScripting.Core/Dependencies/YamlDotNet/Unity.VisualScripting.YamlDotNet.dll
+Native extension for Android target not found
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.87 ms, found 6 plugins.
+Preloading 2 native plugins for Editor in 1.10 ms.
+[Package Manager] Server::EnsureServerProcessIsRunning -- launch failed, reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] Cannot connect to Unity Package Manager local server
+[Package Manager] Server::EnsureServerProcessIsRunning -- launch failed, reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] Cannot connect to Unity Package Manager local server
+[Package Manager] Server::EnsureServerProcessIsRunning -- launch failed, reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] Cannot connect to Unity Package Manager local server
+Mono: successfully reloaded assembly
+- Completed reload, in  0.836 seconds
+Domain Reload Profiling:
+	ReloadAssembly (836ms)
+		BeginReloadAssembly (96ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (3ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (49ms)
+		EndReloadAssembly (677ms)
+			LoadAssemblies (33ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (216ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (31ms)
+			SetupLoadedEditorAssemblies (343ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (10ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (2ms)
+				BeforeProcessingInitializeOnLoad (47ms)
+				ProcessInitializeOnLoadAttributes (272ms)
+				ProcessInitializeOnLoadMethodAttributes (12ms)
+				AfterProcessingInitializeOnLoad (1ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (2ms)
+Platform modules already initialized, skipping
+Shader 'Oculus/OVRMRCameraFrameLit': fallback shader 'Alpha-Diffuse' not found
+Refreshing native plugins compatible for Editor in 2.13 ms, found 6 plugins.
+Preloading 2 native plugins for Editor in 1.11 ms.
+Unloading 5411 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 56 unused Assets / (247.3 KB). Loaded Objects now: 6000.
+Memory consumption went from 227.4 MB to 227.2 MB.
+Total: 2.990292 ms (FindLiveObjects: 0.194375 ms CreateObjectMapping: 0.067375 ms MarkObjects: 2.607875 ms  DeleteObjects: 0.119958 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:framework-osx-AVFoundation: e770b220cccbd017edd2c1fefb359320 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001993 seconds.
+Begin MonoManager ReloadAssembly
+Thread 0x17011f000 may have been prematurely finalized
+Symbol file LoadedFromMemory doesn't match image /Users/Vinod/Documents/GitHub/VR-Volume-Rendering/Library/PackageCache/com.unity.visualscripting@1.8.0/Editor/VisualScripting.Core/Dependencies/DotNetZip/Unity.VisualScripting.IonicZip.dll
+Symbol file LoadedFromMemory doesn't match image /Users/Vinod/Documents/GitHub/VR-Volume-Rendering/Library/PackageCache/com.unity.visualscripting@1.8.0/Editor/VisualScripting.Core/Dependencies/YamlDotNet/Unity.VisualScripting.YamlDotNet.dll
+Native extension for Android target not found
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.89 ms, found 6 plugins.
+Preloading 2 native plugins for Editor in 1.09 ms.
+[Package Manager] Server::EnsureServerProcessIsRunning -- launch failed, reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] Cannot connect to Unity Package Manager local server
+[Package Manager] Server::EnsureServerProcessIsRunning -- launch failed, reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] Cannot connect to Unity Package Manager local server
+[Package Manager] Server::EnsureServerProcessIsRunning -- launch failed, reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] Cannot connect to Unity Package Manager local server
+Mono: successfully reloaded assembly
+- Completed reload, in  0.860 seconds
+Domain Reload Profiling:
+	ReloadAssembly (861ms)
+		BeginReloadAssembly (94ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (3ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (48ms)
+		EndReloadAssembly (704ms)
+			LoadAssemblies (32ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (232ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (35ms)
+			SetupLoadedEditorAssemblies (347ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (10ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (2ms)
+				BeforeProcessingInitializeOnLoad (49ms)
+				ProcessInitializeOnLoadAttributes (274ms)
+				ProcessInitializeOnLoadMethodAttributes (11ms)
+				AfterProcessingInitializeOnLoad (1ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (2ms)
+Platform modules already initialized, skipping
+Shader 'Oculus/OVRMRCameraFrameLit': fallback shader 'Alpha-Diffuse' not found
+Refreshing native plugins compatible for Editor in 1.78 ms, found 6 plugins.
+Preloading 2 native plugins for Editor in 0.98 ms.
+Unloading 5411 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 56 unused Assets / (255.4 KB). Loaded Objects now: 6004.
+Memory consumption went from 227.5 MB to 227.2 MB.
+Total: 3.157875 ms (FindLiveObjects: 0.201042 ms CreateObjectMapping: 0.062750 ms MarkObjects: 2.761959 ms  DeleteObjects: 0.131542 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:framework-osx-AVFoundation: e770b220cccbd017edd2c1fefb359320 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 524.374927 seconds.
+  path: Assets/Scenes/SampleScene.unity
+  artifactKey: Guid(9fc0d4010bbf28b4594072e72b8655ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/SampleScene.unity using Guid(9fc0d4010bbf28b4594072e72b8655ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7e6aae7c723dcb759926e3d6c0467ffc') in 0.048745 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 250.781692 seconds.
+  path: Assets/Scenes/SampleScene.unity
+  artifactKey: Guid(9fc0d4010bbf28b4594072e72b8655ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/SampleScene.unity using Guid(9fc0d4010bbf28b4594072e72b8655ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e0df1be97645c0e5cb26cb668ee49b6c') in 0.001316 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002028 seconds.
+Begin MonoManager ReloadAssembly
+Thread 0x17011f000 may have been prematurely finalized
+Symbol file LoadedFromMemory doesn't match image /Users/Vinod/Documents/GitHub/VR-Volume-Rendering/Library/PackageCache/com.unity.visualscripting@1.8.0/Editor/VisualScripting.Core/Dependencies/DotNetZip/Unity.VisualScripting.IonicZip.dll
+Symbol file LoadedFromMemory doesn't match image /Users/Vinod/Documents/GitHub/VR-Volume-Rendering/Library/PackageCache/com.unity.visualscripting@1.8.0/Editor/VisualScripting.Core/Dependencies/YamlDotNet/Unity.VisualScripting.YamlDotNet.dll
+Native extension for Android target not found
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 1.00 ms, found 6 plugins.
+Preloading 2 native plugins for Editor in 1.19 ms.
+[Package Manager] Server::EnsureServerProcessIsRunning -- launch failed, reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] Cannot connect to Unity Package Manager local server
+[Package Manager] Server::EnsureServerProcessIsRunning -- launch failed, reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] Cannot connect to Unity Package Manager local server
+[Package Manager] Server::EnsureServerProcessIsRunning -- launch failed, reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] Cannot connect to Unity Package Manager local server
+Mono: successfully reloaded assembly
+- Completed reload, in  0.893 seconds
+Domain Reload Profiling:
+	ReloadAssembly (894ms)
+		BeginReloadAssembly (97ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (2ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (49ms)
+		EndReloadAssembly (731ms)
+			LoadAssemblies (36ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (235ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (35ms)
+			SetupLoadedEditorAssemblies (365ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (11ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (2ms)
+				BeforeProcessingInitializeOnLoad (51ms)
+				ProcessInitializeOnLoadAttributes (289ms)
+				ProcessInitializeOnLoadMethodAttributes (12ms)
+				AfterProcessingInitializeOnLoad (1ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (2ms)
+Platform modules already initialized, skipping
+Shader 'Oculus/OVRMRCameraFrameLit': fallback shader 'Alpha-Diffuse' not found
+Refreshing native plugins compatible for Editor in 2.48 ms, found 6 plugins.
+Preloading 2 native plugins for Editor in 1.13 ms.
+Unloading 5411 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 56 unused Assets / (255.2 KB). Loaded Objects now: 6008.
+Memory consumption went from 227.5 MB to 227.2 MB.
+Total: 3.315833 ms (FindLiveObjects: 0.225250 ms CreateObjectMapping: 0.072583 ms MarkObjects: 2.862750 ms  DeleteObjects: 0.154625 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:framework-osx-AVFoundation: e770b220cccbd017edd2c1fefb359320 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 549.496144 seconds.
+  path: Assets/Scenes/SampleScene.unity
+  artifactKey: Guid(9fc0d4010bbf28b4594072e72b8655ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/SampleScene.unity using Guid(9fc0d4010bbf28b4594072e72b8655ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '30e8b76710453fbd4a91c42ab10f2b1f') in 0.008824 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 145.095221 seconds.
+  path: Assets/Scenes/SampleScene.unity
+  artifactKey: Guid(9fc0d4010bbf28b4594072e72b8655ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/SampleScene.unity using Guid(9fc0d4010bbf28b4594072e72b8655ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6ee2a5d72191fe919ba6e9688e477d47') in 0.043552 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 208.776359 seconds.
+  path: Assets/Scenes/SampleScene.unity
+  artifactKey: Guid(9fc0d4010bbf28b4594072e72b8655ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/SampleScene.unity using Guid(9fc0d4010bbf28b4594072e72b8655ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b4336f8428e46e5236c1670c019cd132') in 0.042841 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001668 seconds.
+Begin MonoManager ReloadAssembly
+Thread 0x17011f000 may have been prematurely finalized
+Symbol file LoadedFromMemory doesn't match image /Users/Vinod/Documents/GitHub/VR-Volume-Rendering/Library/PackageCache/com.unity.visualscripting@1.8.0/Editor/VisualScripting.Core/Dependencies/DotNetZip/Unity.VisualScripting.IonicZip.dll
+Symbol file LoadedFromMemory doesn't match image /Users/Vinod/Documents/GitHub/VR-Volume-Rendering/Library/PackageCache/com.unity.visualscripting@1.8.0/Editor/VisualScripting.Core/Dependencies/YamlDotNet/Unity.VisualScripting.YamlDotNet.dll
+Native extension for Android target not found
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.87 ms, found 6 plugins.
+Preloading 2 native plugins for Editor in 1.10 ms.
+[Package Manager] Server::EnsureServerProcessIsRunning -- launch failed, reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] Cannot connect to Unity Package Manager local server
+[Package Manager] Server::EnsureServerProcessIsRunning -- launch failed, reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] Cannot connect to Unity Package Manager local server
+[Package Manager] Server::EnsureServerProcessIsRunning -- launch failed, reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] Cannot connect to Unity Package Manager local server
+Mono: successfully reloaded assembly
+- Completed reload, in  0.910 seconds
+Domain Reload Profiling:
+	ReloadAssembly (910ms)
+		BeginReloadAssembly (93ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (2ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (49ms)
+		EndReloadAssembly (754ms)
+			LoadAssemblies (31ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (246ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (37ms)
+			SetupLoadedEditorAssemblies (374ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (10ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (2ms)
+				BeforeProcessingInitializeOnLoad (50ms)
+				ProcessInitializeOnLoadAttributes (298ms)
+				ProcessInitializeOnLoadMethodAttributes (13ms)
+				AfterProcessingInitializeOnLoad (1ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (2ms)
+Platform modules already initialized, skipping
+Shader 'Oculus/OVRMRCameraFrameLit': fallback shader 'Alpha-Diffuse' not found
+Refreshing native plugins compatible for Editor in 2.28 ms, found 6 plugins.
+Preloading 2 native plugins for Editor in 1.12 ms.
+Unloading 5411 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 56 unused Assets / (247.6 KB). Loaded Objects now: 6012.
+Memory consumption went from 227.5 MB to 227.2 MB.
+Total: 3.261042 ms (FindLiveObjects: 0.189000 ms CreateObjectMapping: 0.071959 ms MarkObjects: 2.857125 ms  DeleteObjects: 0.142417 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:framework-osx-AVFoundation: e770b220cccbd017edd2c1fefb359320 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 280.884238 seconds.
+  path: Assets/Scenes/SampleScene.unity
+  artifactKey: Guid(9fc0d4010bbf28b4594072e72b8655ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/SampleScene.unity using Guid(9fc0d4010bbf28b4594072e72b8655ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7f2d95f53472402d9e903396c3fcbfe3') in 0.048072 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001791 seconds.
+Begin MonoManager ReloadAssembly
+Thread 0x17011f000 may have been prematurely finalized
+Symbol file LoadedFromMemory doesn't match image /Users/Vinod/Documents/GitHub/VR-Volume-Rendering/Library/PackageCache/com.unity.visualscripting@1.8.0/Editor/VisualScripting.Core/Dependencies/DotNetZip/Unity.VisualScripting.IonicZip.dll
+Symbol file LoadedFromMemory doesn't match image /Users/Vinod/Documents/GitHub/VR-Volume-Rendering/Library/PackageCache/com.unity.visualscripting@1.8.0/Editor/VisualScripting.Core/Dependencies/YamlDotNet/Unity.VisualScripting.YamlDotNet.dll
+Native extension for Android target not found
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.90 ms, found 6 plugins.
+Preloading 2 native plugins for Editor in 1.14 ms.
+[Package Manager] Server::EnsureServerProcessIsRunning -- launch failed, reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] Cannot connect to Unity Package Manager local server
+[Package Manager] Server::EnsureServerProcessIsRunning -- launch failed, reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] Cannot connect to Unity Package Manager local server
+[Package Manager] Server::EnsureServerProcessIsRunning -- launch failed, reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] Cannot connect to Unity Package Manager local server
+Mono: successfully reloaded assembly
+- Completed reload, in  0.934 seconds
+Domain Reload Profiling:
+	ReloadAssembly (934ms)
+		BeginReloadAssembly (95ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (2ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (49ms)
+		EndReloadAssembly (773ms)
+			LoadAssemblies (34ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (250ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (38ms)
+			SetupLoadedEditorAssemblies (386ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (11ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (2ms)
+				BeforeProcessingInitializeOnLoad (52ms)
+				ProcessInitializeOnLoadAttributes (306ms)
+				ProcessInitializeOnLoadMethodAttributes (13ms)
+				AfterProcessingInitializeOnLoad (1ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (2ms)
+Platform modules already initialized, skipping
+Shader 'Oculus/OVRMRCameraFrameLit': fallback shader 'Alpha-Diffuse' not found
+Refreshing native plugins compatible for Editor in 2.31 ms, found 6 plugins.
+Preloading 2 native plugins for Editor in 1.10 ms.
+Unloading 5411 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 56 unused Assets / (255.2 KB). Loaded Objects now: 6016.
+Memory consumption went from 227.5 MB to 227.2 MB.
+Total: 3.730292 ms (FindLiveObjects: 0.372167 ms CreateObjectMapping: 0.100959 ms MarkObjects: 3.083208 ms  DeleteObjects: 0.172084 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:framework-osx-AVFoundation: e770b220cccbd017edd2c1fefb359320 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 538.505697 seconds.
+  path: Assets/Scenes/SampleScene.unity
+  artifactKey: Guid(9fc0d4010bbf28b4594072e72b8655ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/SampleScene.unity using Guid(9fc0d4010bbf28b4594072e72b8655ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '081e5c7567a19a526a0b89d16545828a') in 0.008116 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 981.729467 seconds.
+  path: Assets/Scenes/SampleScene.unity
+  artifactKey: Guid(9fc0d4010bbf28b4594072e72b8655ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/SampleScene.unity using Guid(9fc0d4010bbf28b4594072e72b8655ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9f878c58496f7bf53fc96592ccd9ecd6') in 0.043187 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001721 seconds.
+Begin MonoManager ReloadAssembly
+Thread 0x17011f000 may have been prematurely finalized
+Symbol file LoadedFromMemory doesn't match image /Users/Vinod/Documents/GitHub/VR-Volume-Rendering/Library/PackageCache/com.unity.visualscripting@1.8.0/Editor/VisualScripting.Core/Dependencies/DotNetZip/Unity.VisualScripting.IonicZip.dll
+Symbol file LoadedFromMemory doesn't match image /Users/Vinod/Documents/GitHub/VR-Volume-Rendering/Library/PackageCache/com.unity.visualscripting@1.8.0/Editor/VisualScripting.Core/Dependencies/YamlDotNet/Unity.VisualScripting.YamlDotNet.dll
+Native extension for Android target not found
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.94 ms, found 6 plugins.
+Preloading 2 native plugins for Editor in 1.16 ms.
+[Package Manager] Server::EnsureServerProcessIsRunning -- launch failed, reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] Cannot connect to Unity Package Manager local server
+[Package Manager] Server::EnsureServerProcessIsRunning -- launch failed, reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] Cannot connect to Unity Package Manager local server
+[Package Manager] Server::EnsureServerProcessIsRunning -- launch failed, reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] Cannot connect to Unity Package Manager local server
+Mono: successfully reloaded assembly
+- Completed reload, in  0.945 seconds
+Domain Reload Profiling:
+	ReloadAssembly (946ms)
+		BeginReloadAssembly (105ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (3ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (53ms)
+		EndReloadAssembly (770ms)
+			LoadAssemblies (42ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (251ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (37ms)
+			SetupLoadedEditorAssemblies (379ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (11ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (2ms)
+				BeforeProcessingInitializeOnLoad (52ms)
+				ProcessInitializeOnLoadAttributes (301ms)
+				ProcessInitializeOnLoadMethodAttributes (13ms)
+				AfterProcessingInitializeOnLoad (1ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (2ms)
+Platform modules already initialized, skipping
+Shader 'Oculus/OVRMRCameraFrameLit': fallback shader 'Alpha-Diffuse' not found
+Refreshing native plugins compatible for Editor in 2.45 ms, found 6 plugins.
+Preloading 2 native plugins for Editor in 1.08 ms.
+Unloading 5411 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 56 unused Assets / (255.2 KB). Loaded Objects now: 6020.
+Memory consumption went from 227.5 MB to 227.3 MB.
+Total: 3.695709 ms (FindLiveObjects: 0.195416 ms CreateObjectMapping: 0.074958 ms MarkObjects: 3.254917 ms  DeleteObjects: 0.169584 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:framework-osx-AVFoundation: e770b220cccbd017edd2c1fefb359320 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 748.857623 seconds.
+  path: Assets/Scenes/SampleScene.unity
+  artifactKey: Guid(9fc0d4010bbf28b4594072e72b8655ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/SampleScene.unity using Guid(9fc0d4010bbf28b4594072e72b8655ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '78061dd1099a21aaf03675869141205c') in 0.008501 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 68.716143 seconds.
+  path: Assets/Scenes/SampleScene.unity
+  artifactKey: Guid(9fc0d4010bbf28b4594072e72b8655ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/SampleScene.unity using Guid(9fc0d4010bbf28b4594072e72b8655ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '607eb83086d1b4878e869db05f329442') in 0.043600 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 89.335159 seconds.
+  path: Assets/Scenes/SampleScene.unity
+  artifactKey: Guid(9fc0d4010bbf28b4594072e72b8655ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/SampleScene.unity using Guid(9fc0d4010bbf28b4594072e72b8655ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '984cc61a74297ae45792e3ac8bdc0a3a') in 0.043247 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001590 seconds.
+Begin MonoManager ReloadAssembly
+Thread 0x17011f000 may have been prematurely finalized
+Symbol file LoadedFromMemory doesn't match image /Users/Vinod/Documents/GitHub/VR-Volume-Rendering/Library/PackageCache/com.unity.visualscripting@1.8.0/Editor/VisualScripting.Core/Dependencies/DotNetZip/Unity.VisualScripting.IonicZip.dll
+Symbol file LoadedFromMemory doesn't match image /Users/Vinod/Documents/GitHub/VR-Volume-Rendering/Library/PackageCache/com.unity.visualscripting@1.8.0/Editor/VisualScripting.Core/Dependencies/YamlDotNet/Unity.VisualScripting.YamlDotNet.dll
+Native extension for Android target not found
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.89 ms, found 6 plugins.
+Preloading 2 native plugins for Editor in 1.14 ms.
+[Package Manager] Server::EnsureServerProcessIsRunning -- launch failed, reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] Cannot connect to Unity Package Manager local server
+[Package Manager] Server::EnsureServerProcessIsRunning -- launch failed, reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] Cannot connect to Unity Package Manager local server
+[Package Manager] Server::EnsureServerProcessIsRunning -- launch failed, reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] Cannot connect to Unity Package Manager local server
+Mono: successfully reloaded assembly
+- Completed reload, in  0.912 seconds
+Domain Reload Profiling:
+	ReloadAssembly (912ms)
+		BeginReloadAssembly (90ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (2ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (45ms)
+		EndReloadAssembly (758ms)
+			LoadAssemblies (34ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (249ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (36ms)
+			SetupLoadedEditorAssemblies (375ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (10ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (2ms)
+				BeforeProcessingInitializeOnLoad (50ms)
+				ProcessInitializeOnLoadAttributes (299ms)
+				ProcessInitializeOnLoadMethodAttributes (13ms)
+				AfterProcessingInitializeOnLoad (1ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (2ms)
+Platform modules already initialized, skipping
+Shader 'Oculus/OVRMRCameraFrameLit': fallback shader 'Alpha-Diffuse' not found
+Refreshing native plugins compatible for Editor in 2.24 ms, found 6 plugins.
+Preloading 2 native plugins for Editor in 1.12 ms.
+Unloading 5411 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 56 unused Assets / (255.3 KB). Loaded Objects now: 6024.
+Memory consumption went from 227.5 MB to 227.3 MB.
+Total: 3.158709 ms (FindLiveObjects: 0.173459 ms CreateObjectMapping: 0.064625 ms MarkObjects: 2.767625 ms  DeleteObjects: 0.152375 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:framework-osx-AVFoundation: e770b220cccbd017edd2c1fefb359320 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001752 seconds.
+Begin MonoManager ReloadAssembly
+Thread 0x17011f000 may have been prematurely finalized
+Symbol file LoadedFromMemory doesn't match image /Users/Vinod/Documents/GitHub/VR-Volume-Rendering/Library/PackageCache/com.unity.visualscripting@1.8.0/Editor/VisualScripting.Core/Dependencies/DotNetZip/Unity.VisualScripting.IonicZip.dll
+Symbol file LoadedFromMemory doesn't match image /Users/Vinod/Documents/GitHub/VR-Volume-Rendering/Library/PackageCache/com.unity.visualscripting@1.8.0/Editor/VisualScripting.Core/Dependencies/YamlDotNet/Unity.VisualScripting.YamlDotNet.dll
+Native extension for Android target not found
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.95 ms, found 6 plugins.
+Preloading 2 native plugins for Editor in 1.19 ms.
+[Package Manager] Server::EnsureServerProcessIsRunning -- launch failed, reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] Cannot connect to Unity Package Manager local server
+[Package Manager] Server::EnsureServerProcessIsRunning -- launch failed, reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] Cannot connect to Unity Package Manager local server
+[Package Manager] Server::EnsureServerProcessIsRunning -- launch failed, reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] Cannot connect to Unity Package Manager local server
+Mono: successfully reloaded assembly
+- Completed reload, in  0.920 seconds
+Domain Reload Profiling:
+	ReloadAssembly (921ms)
+		BeginReloadAssembly (98ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (3ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (48ms)
+		EndReloadAssembly (758ms)
+			LoadAssemblies (36ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (245ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (36ms)
+			SetupLoadedEditorAssemblies (380ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (11ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (2ms)
+				BeforeProcessingInitializeOnLoad (51ms)
+				ProcessInitializeOnLoadAttributes (301ms)
+				ProcessInitializeOnLoadMethodAttributes (13ms)
+				AfterProcessingInitializeOnLoad (1ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (2ms)
+Platform modules already initialized, skipping
+Shader 'Oculus/OVRMRCameraFrameLit': fallback shader 'Alpha-Diffuse' not found
+Refreshing native plugins compatible for Editor in 2.16 ms, found 6 plugins.
+Preloading 2 native plugins for Editor in 1.10 ms.
+Unloading 5411 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 56 unused Assets / (255.3 KB). Loaded Objects now: 6028.
+Memory consumption went from 227.5 MB to 227.3 MB.
+Total: 2.952833 ms (FindLiveObjects: 0.184166 ms CreateObjectMapping: 0.061333 ms MarkObjects: 2.571292 ms  DeleteObjects: 0.135458 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:framework-osx-AVFoundation: e770b220cccbd017edd2c1fefb359320 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002112 seconds.
+Begin MonoManager ReloadAssembly
+Thread 0x17011f000 may have been prematurely finalized
+Symbol file LoadedFromMemory doesn't match image /Users/Vinod/Documents/GitHub/VR-Volume-Rendering/Library/PackageCache/com.unity.visualscripting@1.8.0/Editor/VisualScripting.Core/Dependencies/DotNetZip/Unity.VisualScripting.IonicZip.dll
+Symbol file LoadedFromMemory doesn't match image /Users/Vinod/Documents/GitHub/VR-Volume-Rendering/Library/PackageCache/com.unity.visualscripting@1.8.0/Editor/VisualScripting.Core/Dependencies/YamlDotNet/Unity.VisualScripting.YamlDotNet.dll
+Native extension for Android target not found
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.96 ms, found 6 plugins.
+Preloading 2 native plugins for Editor in 1.25 ms.
+[Package Manager] Server::EnsureServerProcessIsRunning -- launch failed, reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] Cannot connect to Unity Package Manager local server
+[Package Manager] Server::EnsureServerProcessIsRunning -- launch failed, reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] Cannot connect to Unity Package Manager local server
+[Package Manager] Server::EnsureServerProcessIsRunning -- launch failed, reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] Cannot connect to Unity Package Manager local server
+Mono: successfully reloaded assembly
+- Completed reload, in  0.920 seconds
+Domain Reload Profiling:
+	ReloadAssembly (944ms)
+		BeginReloadAssembly (119ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (3ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (47ms)
+		EndReloadAssembly (759ms)
+			LoadAssemblies (37ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (245ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (35ms)
+			SetupLoadedEditorAssemblies (379ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (11ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (2ms)
+				BeforeProcessingInitializeOnLoad (52ms)
+				ProcessInitializeOnLoadAttributes (301ms)
+				ProcessInitializeOnLoadMethodAttributes (12ms)
+				AfterProcessingInitializeOnLoad (1ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (2ms)
+Platform modules already initialized, skipping
+Shader 'Oculus/OVRMRCameraFrameLit': fallback shader 'Alpha-Diffuse' not found
+Refreshing native plugins compatible for Editor in 2.47 ms, found 6 plugins.
+Preloading 2 native plugins for Editor in 1.15 ms.
+Unloading 5411 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 56 unused Assets / (255.3 KB). Loaded Objects now: 6032.
+Memory consumption went from 227.5 MB to 227.3 MB.
+Total: 3.601709 ms (FindLiveObjects: 0.210292 ms CreateObjectMapping: 0.072208 ms MarkObjects: 3.163542 ms  DeleteObjects: 0.154917 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:framework-osx-AVFoundation: e770b220cccbd017edd2c1fefb359320 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001796 seconds.
+Begin MonoManager ReloadAssembly
+Thread 0x17011f000 may have been prematurely finalized
+Symbol file LoadedFromMemory doesn't match image /Users/Vinod/Documents/GitHub/VR-Volume-Rendering/Library/PackageCache/com.unity.visualscripting@1.8.0/Editor/VisualScripting.Core/Dependencies/DotNetZip/Unity.VisualScripting.IonicZip.dll
+Symbol file LoadedFromMemory doesn't match image /Users/Vinod/Documents/GitHub/VR-Volume-Rendering/Library/PackageCache/com.unity.visualscripting@1.8.0/Editor/VisualScripting.Core/Dependencies/YamlDotNet/Unity.VisualScripting.YamlDotNet.dll
+Native extension for Android target not found
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.95 ms, found 6 plugins.
+Preloading 2 native plugins for Editor in 1.15 ms.
+[Package Manager] Server::EnsureServerProcessIsRunning -- launch failed, reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] Cannot connect to Unity Package Manager local server
+[Package Manager] Server::EnsureServerProcessIsRunning -- launch failed, reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] Cannot connect to Unity Package Manager local server
+[Package Manager] Server::EnsureServerProcessIsRunning -- launch failed, reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] Cannot connect to Unity Package Manager local server
+Mono: successfully reloaded assembly
+- Completed reload, in  0.923 seconds
+Domain Reload Profiling:
+	ReloadAssembly (924ms)
+		BeginReloadAssembly (93ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (3ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (46ms)
+		EndReloadAssembly (763ms)
+			LoadAssemblies (36ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (249ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (37ms)
+			SetupLoadedEditorAssemblies (378ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (11ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (2ms)
+				BeforeProcessingInitializeOnLoad (51ms)
+				ProcessInitializeOnLoadAttributes (300ms)
+				ProcessInitializeOnLoadMethodAttributes (13ms)
+				AfterProcessingInitializeOnLoad (1ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (2ms)
+Platform modules already initialized, skipping
+Shader 'Oculus/OVRMRCameraFrameLit': fallback shader 'Alpha-Diffuse' not found
+Refreshing native plugins compatible for Editor in 2.35 ms, found 6 plugins.
+Preloading 2 native plugins for Editor in 1.14 ms.
+Unloading 5411 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 56 unused Assets / (255.3 KB). Loaded Objects now: 6036.
+Memory consumption went from 227.6 MB to 227.3 MB.
+Total: 3.335083 ms (FindLiveObjects: 0.197542 ms CreateObjectMapping: 0.070458 ms MarkObjects: 2.932750 ms  DeleteObjects: 0.133834 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:framework-osx-AVFoundation: e770b220cccbd017edd2c1fefb359320 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
