@@ -22,7 +22,7 @@ AssetImportWorker0
 -logFile
 Logs/AssetImportWorker0.log
 -srvPort
-56687
+57630
 Successfully changed project path to: /Users/Vinod/Documents/GitHub/VR-Volume-Rendering
 /Users/Vinod/Documents/GitHub/VR-Volume-Rendering
 [UnityMemory] Configuration Parameters - Can be set up in boot.config
@@ -54,12 +54,12 @@ Successfully changed project path to: /Users/Vinod/Documents/GitHub/VR-Volume-Re
     "memorysetup-temp-allocator-size-cloud-worker=32768"
     "memorysetup-temp-allocator-size-gi-baking-worker=262144"
     "memorysetup-temp-allocator-size-gfx=262144"
-Player connection [4443473280] Host "[IP] 192.168.1.4 [Port] 0 [Flags] 2 [Guid] 3237752852 [EditorId] 3237752852 [Version] 1048832 [Id] OSXEditor(0,MacBook-Pro-27.local) [Debug] 1 [PackageName] OSXEditor [ProjectName] Editor" joined multi-casting on [225.0.0.222:54997]...
+Player connection [4398384512] Host "[IP] 192.168.1.4 [Port] 0 [Flags] 2 [Guid] 2565430399 [EditorId] 2565430399 [Version] 1048832 [Id] OSXEditor(0,MacBook-Pro-27.local) [Debug] 1 [PackageName] OSXEditor [ProjectName] Editor" joined multi-casting on [225.0.0.222:54997]...
 
-Player connection [4443473280] Host "[IP] 192.168.1.4 [Port] 0 [Flags] 2 [Guid] 3237752852 [EditorId] 3237752852 [Version] 1048832 [Id] OSXEditor(0,MacBook-Pro-27.local) [Debug] 1 [PackageName] OSXEditor [ProjectName] Editor" joined alternative multi-casting on [225.0.0.222:34997]...
+Player connection [4398384512] Host "[IP] 192.168.1.4 [Port] 0 [Flags] 2 [Guid] 2565430399 [EditorId] 2565430399 [Version] 1048832 [Id] OSXEditor(0,MacBook-Pro-27.local) [Debug] 1 [PackageName] OSXEditor [ProjectName] Editor" joined alternative multi-casting on [225.0.0.222:34997]...
 
-Refreshing native plugins compatible for Editor in 117.31 ms, found 6 plugins.
-Preloading 2 native plugins for Editor in 6.74 ms.
+Refreshing native plugins compatible for Editor in 102.72 ms, found 6 plugins.
+Preloading 2 native plugins for Editor in 6.16 ms.
 Initialize engine version: 2021.3.19f1 (c9714fde33b6)
 [Subsystems] Discovering subsystems at path /Applications/Unity/Hub/Editor/2021.3.19f1/Unity.app/Contents/Resources/UnitySubsystems
 [Subsystems] Discovering subsystems at path /Users/Vinod/Documents/GitHub/VR-Volume-Rendering/Assets
@@ -74,82 +74,82 @@ Initialize mono
 Mono path[0] = '/Applications/Unity/Hub/Editor/2021.3.19f1/Unity.app/Contents/Managed'
 Mono path[1] = '/Applications/Unity/Hub/Editor/2021.3.19f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityjit-macos'
 Mono config path = '/Applications/Unity/Hub/Editor/2021.3.19f1/Unity.app/Contents/MonoBleedingEdge/etc'
-Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56176
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56156
 Begin MonoManager ReloadAssembly
 Registering precompiled unity dll's ...
 Register platform support module: /Applications/Unity/Hub/Editor/2021.3.19f1/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/UnityEditor.OSXStandalone.Extensions.dll
 Register platform support module: /Applications/Unity/Hub/Editor/2021.3.19f1/PlaybackEngines/AndroidPlayer/UnityEditor.Android.Extensions.dll
-Registered in 0.000459 seconds.
+Registered in 0.000432 seconds.
 Native extension for Android target not found
-Android Extension - Scanning For ADB Devices 97 ms
+Android Extension - Scanning For ADB Devices 79 ms
 Native extension for OSXStandalone target not found
-Refreshing native plugins compatible for Editor in 117.25 ms, found 6 plugins.
-Preloading 2 native plugins for Editor in 1.17 ms.
+Refreshing native plugins compatible for Editor in 104.98 ms, found 6 plugins.
+Preloading 2 native plugins for Editor in 1.14 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  0.651 seconds
+- Completed reload, in  0.529 seconds
 Domain Reload Profiling:
-	ReloadAssembly (651ms)
-		BeginReloadAssembly (47ms)
+	ReloadAssembly (529ms)
+		BeginReloadAssembly (27ms)
 			ExecutionOrderSort (0ms)
 			DisableScriptedObjects (0ms)
 			BackupInstance (0ms)
 			ReleaseScriptingObjects (0ms)
-			CreateAndSetChildDomain (1ms)
-		EndReloadAssembly (523ms)
-			LoadAssemblies (47ms)
+			CreateAndSetChildDomain (0ms)
+		EndReloadAssembly (432ms)
+			LoadAssemblies (27ms)
 			RebuildTransferFunctionScriptingTraits (0ms)
-			SetupTypeCache (92ms)
+			SetupTypeCache (75ms)
 			ReleaseScriptCaches (0ms)
-			RebuildScriptCaches (27ms)
-			SetupLoadedEditorAssemblies (359ms)
+			RebuildScriptCaches (20ms)
+			SetupLoadedEditorAssemblies (308ms)
 				LogAssemblyErrors (0ms)
-				InitializePlatformSupportModulesInManaged (150ms)
+				InitializePlatformSupportModulesInManaged (125ms)
 				SetLoadedEditorAssemblies (0ms)
-				RefreshPlugins (118ms)
+				RefreshPlugins (106ms)
 				BeforeProcessingInitializeOnLoad (1ms)
-				ProcessInitializeOnLoadAttributes (59ms)
-				ProcessInitializeOnLoadMethodAttributes (30ms)
+				ProcessInitializeOnLoadAttributes (50ms)
+				ProcessInitializeOnLoadMethodAttributes (25ms)
 				AfterProcessingInitializeOnLoad (0ms)
 				EditorAssembliesLoaded (0ms)
 			ExecutionOrderSort2 (0ms)
 			AwakeInstancesAfterBackupRestoration (0ms)
 Platform modules already initialized, skipping
 Registering precompiled user dll's ...
-Registered in 0.001783 seconds.
+Registered in 0.001998 seconds.
 Begin MonoManager ReloadAssembly
 Symbol file LoadedFromMemory doesn't match image /Users/Vinod/Documents/GitHub/VR-Volume-Rendering/Library/PackageCache/com.unity.visualscripting@1.8.0/Editor/VisualScripting.Core/Dependencies/DotNetZip/Unity.VisualScripting.IonicZip.dll
 Symbol file LoadedFromMemory doesn't match image /Users/Vinod/Documents/GitHub/VR-Volume-Rendering/Library/PackageCache/com.unity.visualscripting@1.8.0/Editor/VisualScripting.Core/Dependencies/YamlDotNet/Unity.VisualScripting.YamlDotNet.dll
 Native extension for Android target not found
 Native extension for OSXStandalone target not found
-Refreshing native plugins compatible for Editor in 111.73 ms, found 6 plugins.
-Preloading 2 native plugins for Editor in 1.09 ms.
+Refreshing native plugins compatible for Editor in 105.16 ms, found 6 plugins.
+Preloading 2 native plugins for Editor in 1.12 ms.
 Package Manager log level set to [2]
 [Package Manager] Server::EnsureServerProcessIsRunning -- launch failed, reason: Unity was launched with the -noUpm command-line argument
 [Package Manager] Cannot connect to Unity Package Manager local server
 Mono: successfully reloaded assembly
-- Completed reload, in  1.191 seconds
+- Completed reload, in  1.048 seconds
 Domain Reload Profiling:
-	ReloadAssembly (1192ms)
-		BeginReloadAssembly (70ms)
+	ReloadAssembly (1049ms)
+		BeginReloadAssembly (62ms)
 			ExecutionOrderSort (0ms)
-			DisableScriptedObjects (4ms)
+			DisableScriptedObjects (3ms)
 			BackupInstance (0ms)
 			ReleaseScriptingObjects (0ms)
-			CreateAndSetChildDomain (22ms)
-		EndReloadAssembly (1034ms)
-			LoadAssemblies (45ms)
+			CreateAndSetChildDomain (20ms)
+		EndReloadAssembly (913ms)
+			LoadAssemblies (37ms)
 			RebuildTransferFunctionScriptingTraits (0ms)
-			SetupTypeCache (280ms)
-			ReleaseScriptCaches (1ms)
-			RebuildScriptCaches (80ms)
-			SetupLoadedEditorAssemblies (571ms)
+			SetupTypeCache (232ms)
+			ReleaseScriptCaches (0ms)
+			RebuildScriptCaches (58ms)
+			SetupLoadedEditorAssemblies (536ms)
 				LogAssemblyErrors (0ms)
-				InitializePlatformSupportModulesInManaged (10ms)
+				InitializePlatformSupportModulesInManaged (9ms)
 				SetLoadedEditorAssemblies (0ms)
-				RefreshPlugins (113ms)
-				BeforeProcessingInitializeOnLoad (80ms)
-				ProcessInitializeOnLoadAttributes (355ms)
-				ProcessInitializeOnLoadMethodAttributes (12ms)
+				RefreshPlugins (106ms)
+				BeforeProcessingInitializeOnLoad (76ms)
+				ProcessInitializeOnLoadAttributes (333ms)
+				ProcessInitializeOnLoadMethodAttributes (11ms)
 				AfterProcessingInitializeOnLoad (1ms)
 				EditorAssembliesLoaded (0ms)
 			ExecutionOrderSort2 (0ms)
@@ -160,12 +160,12 @@ Worker process is ready to serve import requests
 Shader 'Oculus/OVRMRCameraFrameLit': fallback shader 'Alpha-Diffuse' not found
 Launching external process: /Applications/Unity/Hub/Editor/2021.3.19f1/Unity.app/Contents/Tools/UnityShaderCompiler
 Launched and connected shader compiler UnityShaderCompiler after 0.05 seconds
-Refreshing native plugins compatible for Editor in 0.84 ms, found 6 plugins.
-Preloading 2 native plugins for Editor in 1.05 ms.
+Refreshing native plugins compatible for Editor in 0.71 ms, found 6 plugins.
+Preloading 2 native plugins for Editor in 1.01 ms.
 Unloading 5511 Unused Serialized files (Serialized files now loaded: 0)
 Unloading 67 unused Assets / (275.4 KB). Loaded Objects now: 5941.
-Memory consumption went from 196.5 MB to 196.2 MB.
-Total: 3.400000 ms (FindLiveObjects: 0.173791 ms CreateObjectMapping: 0.064834 ms MarkObjects: 3.010875 ms  DeleteObjects: 0.149875 ms)
+Memory consumption went from 196.4 MB to 196.1 MB.
+Total: 3.480667 ms (FindLiveObjects: 0.176334 ms CreateObjectMapping: 0.063000 ms MarkObjects: 3.083500 ms  DeleteObjects: 0.157000 ms)
 
 AssetImportParameters requested are different than current active one (requested -> active):
   custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
@@ -177,3 +177,27 @@ AssetImportParameters requested are different than current active one (requested
   custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
   custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
   custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 345213.997724 seconds.
+  path: Assets/Materials/SliceRenderingMaterial.mat
+  artifactKey: Guid(445fc0932bb5aab4b94f7548208708e1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/SliceRenderingMaterial.mat using Guid(445fc0932bb5aab4b94f7548208708e1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fd1c2fcb20d2f15e2f3f1af912dbad61') in 0.475218 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000063 seconds.
+  path: Assets/Materials/CrossSectionSphere.mat
+  artifactKey: Guid(9248a20fc678a2a40a99d6b7feffc1b9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/CrossSectionSphere.mat using Guid(9248a20fc678a2a40a99d6b7feffc1b9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4d501b10e7c57d5d545df0663ac436d4') in 0.013379 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.454413 seconds.
+  path: Assets/XR/XRGeneralSettingsPerBuildTarget.asset
+  artifactKey: Guid(6f635de7b5916479d8437803f9983136) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/XR/XRGeneralSettingsPerBuildTarget.asset using Guid(6f635de7b5916479d8437803f9983136) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '22eed8167962b3276660ad6794cbe1b0') in 0.031793 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 8.027321 seconds.
+  path: Packages/com.unity.webrtc/package.json
+  artifactKey: Guid(4e49daa1f041a254db9b13501b9ab600) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.webrtc/package.json using Guid(4e49daa1f041a254db9b13501b9ab600) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '98774f7c6ceb415d3a864c3e2df7e6f3') in 0.177260 seconds 
