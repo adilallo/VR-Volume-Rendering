@@ -331,7 +331,7 @@
         <HintPath>/Users/Vinod/Documents/GitHub/VR-Volume-Rendering/Library/PackageCache/com.unity.testtools.codecoverage@1.2.2/lib/ReportGenerator/ReportGeneratorMerged.dll</HintPath>
     </Reference>
     <Reference Include="websocket-sharp">
-        <HintPath>/Users/Vinod/Documents/GitHub/VR-Volume-Rendering/Library/PackageCache/com.unity.renderstreaming@3.1.0-exp.6/Runtime/Plugins/websocket-sharp.dll</HintPath>
+        <HintPath>/Users/Vinod/Documents/GitHub/VR-Volume-Rendering/Library/PackageCache/com.unity.renderstreaming@3.1.0-exp.2/Runtime/Plugins/websocket-sharp.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Plastic.Newtonsoft.Json">
         <HintPath>/Users/Vinod/Documents/GitHub/VR-Volume-Rendering/Library/PackageCache/com.unity.collab-proxy@2.0.0/Lib/Editor/PlasticSCM/Unity.Plastic.Newtonsoft.Json.dll</HintPath>
@@ -350,6 +350,9 @@
     </Reference>
     <Reference Include="Unity.VisualScripting.Antlr3.Runtime">
         <HintPath>/Users/Vinod/Documents/GitHub/VR-Volume-Rendering/Library/PackageCache/com.unity.visualscripting@1.8.0/Runtime/VisualScripting.Flow/Dependencies/NCalc/Unity.VisualScripting.Antlr3.Runtime.dll</HintPath>
+    </Reference>
+    <Reference Include="Newtonsoft.Json">
+        <HintPath>/Users/Vinod/Documents/GitHub/VR-Volume-Rendering/Library/PackageCache/com.unity.nuget.newtonsoft-json@3.0.2/Runtime/Newtonsoft.Json.dll</HintPath>
     </Reference>
     <Reference Include="nunit.framework">
         <HintPath>/Users/Vinod/Documents/GitHub/VR-Volume-Rendering/Library/PackageCache/com.unity.ext.nunit@1.0.6/net35/unity-custom/nunit.framework.dll</HintPath>
@@ -792,8 +795,8 @@
     <Reference Include="Unity.XR.Oculus.Editor">
         <HintPath>/Users/Vinod/Documents/GitHub/VR-Volume-Rendering/Library/ScriptAssemblies/Unity.XR.Oculus.Editor.dll</HintPath>
     </Reference>
-    <Reference Include="Unity.RenderStreaming">
-        <HintPath>/Users/Vinod/Documents/GitHub/VR-Volume-Rendering/Library/ScriptAssemblies/Unity.RenderStreaming.dll</HintPath>
+    <Reference Include="Unity.RenderStreaming.Runtime">
+        <HintPath>/Users/Vinod/Documents/GitHub/VR-Volume-Rendering/Library/ScriptAssemblies/Unity.RenderStreaming.Runtime.dll</HintPath>
     </Reference>
     <Reference Include="Unity.VisualScripting.Flow.Editor">
         <HintPath>/Users/Vinod/Documents/GitHub/VR-Volume-Rendering/Library/ScriptAssemblies/Unity.VisualScripting.Flow.Editor.dll</HintPath>
@@ -852,15 +855,14 @@
     <Reference Include="Unity.VisualScripting.State">
         <HintPath>/Users/Vinod/Documents/GitHub/VR-Volume-Rendering/Library/ScriptAssemblies/Unity.VisualScripting.State.dll</HintPath>
     </Reference>
+    <Reference Include="FusedVR.Streaming">
+        <HintPath>/Users/Vinod/Documents/GitHub/VR-Volume-Rendering/Library/ScriptAssemblies/FusedVR.Streaming.dll</HintPath>
+    </Reference>
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="Assembly-CSharp.csproj">
       <Project>{28779ea1-0831-ebf3-5e8f-e67b2fe7eb30}</Project>
       <Name>Assembly-CSharp</Name>
-    </ProjectReference>
-    <ProjectReference Include="Unity.RenderStreaming.Sample.csproj">
-      <Project>{c9940a0c-db50-65e3-bd22-62ebed584661}</Project>
-      <Name>Unity.RenderStreaming.Sample</Name>
     </ProjectReference>
     <ProjectReference Include="Meta.VoiceSDK.Mic.WebGL.csproj">
       <Project>{fd656f52-cba1-a58c-1621-fa7deec52200}</Project>
@@ -909,10 +911,6 @@
     <ProjectReference Include="Meta.Voice.Hub.Editor.csproj">
       <Project>{15c38b63-d8be-2a0a-d67f-eabdd364aabf}</Project>
       <Name>Meta.Voice.Hub.Editor</Name>
-    </ProjectReference>
-    <ProjectReference Include="Unity.RenderStreaming.Sample.Stats.csproj">
-      <Project>{842ef8d9-f5af-7987-155c-9e27f7286577}</Project>
-      <Name>Unity.RenderStreaming.Sample.Stats</Name>
     </ProjectReference>
     <ProjectReference Include="Meta.WitAi.csproj">
       <Project>{b376dfb8-90b1-c814-e286-e268098c1199}</Project>
@@ -985,14 +983,6 @@
     <ProjectReference Include="Oculus.Spatializer.csproj">
       <Project>{18be5735-e30e-9f45-f431-4683b9fc44c0}</Project>
       <Name>Oculus.Spatializer</Name>
-    </ProjectReference>
-    <ProjectReference Include="Unity.RenderStreaming.Sample.WebBrowserInput.csproj">
-      <Project>{7065a8ba-58b5-e98c-c51e-486fb0780633}</Project>
-      <Name>Unity.RenderStreaming.Sample.WebBrowserInput</Name>
-    </ProjectReference>
-    <ProjectReference Include="Unity.RenderStreaming.Sample.Editor.csproj">
-      <Project>{290ad9ee-cac7-45f4-5bee-2540d76901b2}</Project>
-      <Name>Unity.RenderStreaming.Sample.Editor</Name>
     </ProjectReference>
     <ProjectReference Include="Meta.WitAi.Conduit.Editor.csproj">
       <Project>{ceb3a929-b354-1083-fce8-8086a11b3862}</Project>
