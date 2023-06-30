@@ -333,6 +333,9 @@
     <Reference Include="websocket-sharp">
         <HintPath>/Users/Vinod/Documents/GitHub/VR-Volume-Rendering/Library/PackageCache/com.unity.renderstreaming@3.1.0-exp.2/Runtime/Plugins/websocket-sharp.dll</HintPath>
     </Reference>
+    <Reference Include="Newtonsoft.Json">
+        <HintPath>/Users/Vinod/Documents/GitHub/VR-Volume-Rendering/Library/PackageCache/com.unity.nuget.newtonsoft-json@3.0.2/Runtime/Newtonsoft.Json.dll</HintPath>
+    </Reference>
     <Reference Include="Unity.Plastic.Newtonsoft.Json">
         <HintPath>/Users/Vinod/Documents/GitHub/VR-Volume-Rendering/Library/PackageCache/com.unity.collab-proxy@2.0.0/Lib/Editor/PlasticSCM/Unity.Plastic.Newtonsoft.Json.dll</HintPath>
     </Reference>
@@ -350,9 +353,6 @@
     </Reference>
     <Reference Include="Unity.VisualScripting.Antlr3.Runtime">
         <HintPath>/Users/Vinod/Documents/GitHub/VR-Volume-Rendering/Library/PackageCache/com.unity.visualscripting@1.8.0/Runtime/VisualScripting.Flow/Dependencies/NCalc/Unity.VisualScripting.Antlr3.Runtime.dll</HintPath>
-    </Reference>
-    <Reference Include="Newtonsoft.Json">
-        <HintPath>/Users/Vinod/Documents/GitHub/VR-Volume-Rendering/Library/PackageCache/com.unity.nuget.newtonsoft-json@3.0.2/Runtime/Newtonsoft.Json.dll</HintPath>
     </Reference>
     <Reference Include="nunit.framework">
         <HintPath>/Users/Vinod/Documents/GitHub/VR-Volume-Rendering/Library/PackageCache/com.unity.ext.nunit@1.0.6/net35/unity-custom/nunit.framework.dll</HintPath>
@@ -744,6 +744,9 @@
     <Reference Include="UnityEngine.TestRunner">
         <HintPath>/Users/Vinod/Documents/GitHub/VR-Volume-Rendering/Library/ScriptAssemblies/UnityEngine.TestRunner.dll</HintPath>
     </Reference>
+    <Reference Include="FusedVR.Streaming">
+        <HintPath>/Users/Vinod/Documents/GitHub/VR-Volume-Rendering/Library/ScriptAssemblies/FusedVR.Streaming.dll</HintPath>
+    </Reference>
     <Reference Include="Unity.VSCode.Editor">
         <HintPath>/Users/Vinod/Documents/GitHub/VR-Volume-Rendering/Library/ScriptAssemblies/Unity.VSCode.Editor.dll</HintPath>
     </Reference>
@@ -768,11 +771,11 @@
     <Reference Include="Unity.TestTools.CodeCoverage.Editor.OpenCover.Mono.Reflection">
         <HintPath>/Users/Vinod/Documents/GitHub/VR-Volume-Rendering/Library/ScriptAssemblies/Unity.TestTools.CodeCoverage.Editor.OpenCover.Mono.Reflection.dll</HintPath>
     </Reference>
-    <Reference Include="UnityEditor.UI">
-        <HintPath>/Users/Vinod/Documents/GitHub/VR-Volume-Rendering/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
-    </Reference>
     <Reference Include="Unity.InputSystem">
         <HintPath>/Users/Vinod/Documents/GitHub/VR-Volume-Rendering/Library/ScriptAssemblies/Unity.InputSystem.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEditor.UI">
+        <HintPath>/Users/Vinod/Documents/GitHub/VR-Volume-Rendering/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Rider.Editor">
         <HintPath>/Users/Vinod/Documents/GitHub/VR-Volume-Rendering/Library/ScriptAssemblies/Unity.Rider.Editor.dll</HintPath>
@@ -854,9 +857,6 @@
     </Reference>
     <Reference Include="Unity.VisualScripting.State">
         <HintPath>/Users/Vinod/Documents/GitHub/VR-Volume-Rendering/Library/ScriptAssemblies/Unity.VisualScripting.State.dll</HintPath>
-    </Reference>
-    <Reference Include="FusedVR.Streaming">
-        <HintPath>/Users/Vinod/Documents/GitHub/VR-Volume-Rendering/Library/ScriptAssemblies/FusedVR.Streaming.dll</HintPath>
     </Reference>
   </ItemGroup>
   <ItemGroup>

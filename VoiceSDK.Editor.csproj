@@ -36,7 +36,6 @@
     <ImplicitlyExpandDesignTimeFacades>false</ImplicitlyExpandDesignTimeFacades>
   </PropertyGroup>
   <ItemGroup>
-     <Compile Include="Assets/Oculus/Voice/Scripts/Editor/Windows/VoiceSDKWizardWindow.cs" />
      <Compile Include="Assets/Oculus/Voice/Scripts/Editor/Data/VoiceSDKDataCreation.cs" />
      <Compile Include="Assets/Oculus/Voice/Scripts/Editor/Utility/VoiceSDKStyles.cs" />
      <Compile Include="Assets/Oculus/Voice/Scripts/Editor/Utility/VoiceSDKMenu.cs" />
@@ -50,6 +49,7 @@
      <Compile Include="Assets/Oculus/Voice/Scripts/Editor/Windows/AboutWindow.cs" />
      <Compile Include="Assets/Oculus/Voice/Scripts/Editor/Utility/VoiceSDKVersion.cs" />
      <Compile Include="Assets/Oculus/Voice/Scripts/Editor/Windows/VoiceApplicationDetailProvider.cs" />
+     <Compile Include="Assets/Oculus/Voice/Scripts/Editor/Windows/VoiceSDKWizardWindow.cs" />
      <None Include="Assets/Oculus/Voice/Scripts/Editor/VoiceSDK.Editor.asmdef" />
     <Reference Include="UnityEngine">
         <HintPath>/Applications/Unity/Hub/Editor/2021.3.19f1/Unity.app/Contents/Managed/UnityEngine/UnityEngine.dll</HintPath>
@@ -319,7 +319,10 @@
         <HintPath>/Users/Vinod/Documents/GitHub/VR-Volume-Rendering/Library/PackageCache/com.unity.testtools.codecoverage@1.2.2/lib/ReportGenerator/ReportGeneratorMerged.dll</HintPath>
     </Reference>
     <Reference Include="websocket-sharp">
-        <HintPath>/Users/Vinod/Documents/GitHub/VR-Volume-Rendering/Library/PackageCache/com.unity.renderstreaming@3.1.0-exp.6/Runtime/Plugins/websocket-sharp.dll</HintPath>
+        <HintPath>/Users/Vinod/Documents/GitHub/VR-Volume-Rendering/Library/PackageCache/com.unity.renderstreaming@3.1.0-exp.2/Runtime/Plugins/websocket-sharp.dll</HintPath>
+    </Reference>
+    <Reference Include="Newtonsoft.Json">
+        <HintPath>/Users/Vinod/Documents/GitHub/VR-Volume-Rendering/Library/PackageCache/com.unity.nuget.newtonsoft-json@3.0.2/Runtime/Newtonsoft.Json.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Plastic.Newtonsoft.Json">
         <HintPath>/Users/Vinod/Documents/GitHub/VR-Volume-Rendering/Library/PackageCache/com.unity.collab-proxy@2.0.0/Lib/Editor/PlasticSCM/Unity.Plastic.Newtonsoft.Json.dll</HintPath>
