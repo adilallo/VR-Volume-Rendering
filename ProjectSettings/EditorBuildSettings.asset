@@ -13,3 +13,4 @@ EditorBuildSettings:
     com.unity.input.settings: {fileID: 11400000, guid: 2c0db15216cb7456ebd128bc0fe72372, type: 2}
     com.unity.renderstreaming.settings: {fileID: 11400000, guid: 039337c008e9a5c44a60f957eae3e450, type: 2}
     com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 6f635de7b5916479d8437803f9983136, type: 2}
+    com.unity.xr.openxr.settings4: {fileID: 11400000, guid: d8bd9377bc1b94711a658d628db92852, type: 2}

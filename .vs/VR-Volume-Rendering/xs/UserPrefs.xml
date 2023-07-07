@@ -3,11 +3,12 @@
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/DICOM Loader/DICOMLoader.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Shaders/DirectVolumeRenderingShader.shader">
     <Files>
       <File FileName="Assets/Scripts/DICOM Loader/DICOMLoader.cs" Line="1" Column="1" />
-      <File FileName="Assets/Scripts/Importing/ImporterFactory.cs" Line="4" Column="31" />
-      <File FileName="Assets/Editor/DICOMLoaderInspector.cs" Line="35" Column="1" />
+      <File FileName="Assets/Scripts/Importing/ImporterFactory.cs" />
+      <File FileName="Assets/Editor/DICOMLoaderInspector.cs" />
+      <File FileName="Assets/Shaders/DirectVolumeRenderingShader.shader" Line="409" Column="43" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -19,6 +20,7 @@
                 <Node name="DICOM Loader" expanded="True" />
                 <Node name="Importing" expanded="True" />
               </Node>
+              <Node name="Shaders" expanded="True" />
             </Node>
           </Node>
         </State>
