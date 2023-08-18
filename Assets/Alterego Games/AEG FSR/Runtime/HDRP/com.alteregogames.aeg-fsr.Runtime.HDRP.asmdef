@@ -1,3 +1,20 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:37bf37637e0ba2e6dcfdad17473bc1fc86c42fa9d9ab54d73a89b3e273067bbe
-size 555
+{
+    "name": "com.alteregogames.aeg-fsr.Runtime.HDRP",
+    "rootNamespace": "AEG.FSR",
+    "references": [
+        "com.alteregogames.aeg-fsr.Runtime",
+        "Unity.RenderPipelines.Core.Runtime",
+        "Unity.RenderPipelines.HighDefinition.Runtime"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [
+        "UNITY_HDRP"
+    ],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

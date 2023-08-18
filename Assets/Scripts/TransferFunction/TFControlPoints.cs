@@ -1,3 +1,30 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:4821231b6dfc0525c716a69e1e41735334a399635d4464e9c3fbb1803bf98776
-size 723
+﻿using UnityEngine;
+
+namespace UnityVolumeRendering
+{
+    [System.Serializable]
+    public struct TFColourControlPoint
+    {
+        public float dataValue;
+        public Color colourValue;
+
+        public TFColourControlPoint(float dataValue, Color colourValue)
+        {
+            this.dataValue = dataValue;
+            this.colourValue = colourValue;
+        }
+    }
+
+    [System.Serializable]
+    public struct TFAlphaControlPoint
+    {
+        public float dataValue;
+        public float alphaValue;
+
+        public TFAlphaControlPoint(float dataValue, float alphaValue)
+        {
+            this.dataValue = dataValue;
+            this.alphaValue = alphaValue;
+        }
+    }
+}

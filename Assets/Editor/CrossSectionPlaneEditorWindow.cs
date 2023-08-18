@@ -1,3 +1,25 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:d39c5d47f5369f633c3e84e299b89b047e9e28b8dd61887d8e88c9f466f857de
-size 749
+﻿using UnityEngine;
+using UnityEditor;
+
+namespace UnityVolumeRendering
+{
+    public class CrossSectionPlaneEditorWindow : EditorWindow
+    {
+        private void OnGUI()
+        {
+            VolumeRenderedObject[] spawnedObjects = GameObject.FindObjectsOfType<VolumeRenderedObject>();
+            if (spawnedObjects.Length == 0)
+            {
+                EditorGUILayout.LabelField("Please load a dataset first.");
+            }
+            else
+            {
+                foreach (VolumeRenderedObject volobj in spawnedObjects)
+                {
+                    if (GUILayout.Button(volobj.gameObject.name))
+                        VolumeObjectFactory.SpawnCrossSectionPlane(volobj);
+                }
+            }
+        }
+    }
+}

@@ -1,3 +1,34 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:78f4a81450f24be36fd129cd6f2a9d9fd278ece7481820d477f501e4c103e1e8
-size 835
+using UnityEditor;
+using UnityEngine;
+
+[CustomEditor(typeof(DICOMLoader))]
+public class DICOMLoaderInspector : Editor
+{
+    public override void OnInspectorGUI()
+    {
+        DICOMLoader dicomLoader = (DICOMLoader)target;
+
+        EditorGUILayout.LabelField("DICOM Directory");
+
+        EditorGUI.indentLevel++;
+
+        EditorGUILayout.BeginHorizontal();
+        dicomLoader.dicomDir = EditorGUILayout.TextField(dicomLoader.dicomDir);
+
+        if (GUILayout.Button("Select Directory"))
+        {
+            string path = EditorUtility.OpenFolderPanel("Select DICOM Directory", "", "");
+
+            if (!string.IsNullOrEmpty(path))
+            {
+                dicomLoader.dicomDir = path;
+            }
+        }
+
+        EditorGUILayout.EndHorizontal();
+
+        EditorGUI.indentLevel--;
+
+        DrawDefaultInspector();
+    }
+}

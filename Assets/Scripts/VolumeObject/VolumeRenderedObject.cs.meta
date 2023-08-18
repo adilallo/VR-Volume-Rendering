@@ -1,3 +1,16 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:ee2d8c788b0e8b2070d28080b21b893885a736fddeb769a84fbd2922d15aa5e6
-size 487
+fileFormatVersion: 2
+guid: acf4a5cf6519d714895a068f9a4e8456
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - transferFunction: {instanceID: 0}
+  - transferFunction2D: {instanceID: 0}
+  - dataset: {instanceID: 0}
+  - meshRenderer: {instanceID: 0}
+  - volumeContainerObject: {fileID: 1642054173293210335, guid: f6b1aee4487240b479e35fd92cb07c95, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

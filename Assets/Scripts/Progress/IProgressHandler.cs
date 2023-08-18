@@ -1,3 +1,16 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:3c35ab0590703f8a8d3cc4f9bb9186584c5dc7a4cc62413ad1d819acc91f7b29
-size 594
+namespace UnityVolumeRendering
+{
+    /// <summary>
+    /// Interface for progress handlers.
+    /// Used for tracking the progress of long-lasting async operations, such as model import.
+    /// Normally you will want to use <see cref="ProgressHandler"/>.
+    /// </summary>
+    public interface IProgressHandler
+    {
+        void StartStage(float weight, string description = "");
+        void EndStage();
+        void ReportProgress(float progress, string description = "");
+        void ReportProgress(int currentStep, int totalSteps, string description = "");
+        void Fail();
+    }
+}

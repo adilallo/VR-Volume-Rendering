@@ -1,3 +1,20 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:3d2325e1aa9f3f211d8e8b23ca1255c4af27300e317e068e7184b1be90836f9a
-size 548
+{
+    "name": "com.alteregogames.aeg-fsr.Runtime.URP",
+    "rootNamespace": "AEG.FSR",
+    "references": [
+        "com.alteregogames.aeg-fsr.Runtime",
+        "Unity.RenderPipelines.Core.Runtime",
+        "Unity.RenderPipelines.Universal.Runtime"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [
+        "UNITY_URP"
+    ],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

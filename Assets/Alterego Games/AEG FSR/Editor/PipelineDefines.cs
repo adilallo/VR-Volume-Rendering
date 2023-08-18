@@ -1,3 +1,101 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:f85b9ca8bacf224080b6f4e6de69482e6b8ea1c9450fbbdc8ddc5a4f9ada0551
-size 3337
+using System.Collections.Generic;
+using System.Linq;
+
+using UnityEditor;
+using UnityEngine.Rendering;
+
+namespace AEG.FSR
+{
+    [InitializeOnLoad]
+    public class PipelineDefines
+    {
+        enum PipelineType
+        {
+            Unsupported,
+            BIRP,
+            URP,
+            HDRP
+        }
+
+        static PipelineDefines() {
+            UpdateDefines();
+        }
+
+        /// <summary>
+        /// Update the unity pipeline defines for URP
+        /// </summary>
+        static void UpdateDefines() {
+            var pipeline = GetPipeline();
+
+            if(pipeline == PipelineType.URP) {
+                AddDefine("UNITY_URP");
+            } else {
+                RemoveDefine("UNITY_URP");
+            }
+            if(pipeline == PipelineType.HDRP) {
+                AddDefine("UNITY_HDRP");
+            } else {
+                RemoveDefine("UNITY_HDRP");
+            }
+            if(pipeline == PipelineType.BIRP) {
+                AddDefine("UNITY_BIRP");
+            } else {
+                RemoveDefine("UNITY_BIRP");
+            }
+        }
+
+        static PipelineType GetPipeline() {
+#if UNITY_2019_1_OR_NEWER
+            if(GraphicsSettings.renderPipelineAsset != null) {
+                var srpType = GraphicsSettings.renderPipelineAsset.GetType().ToString();
+                //HDRP
+                if(srpType.Contains("HDRenderPipelineAsset")) {
+                    return PipelineType.HDRP;
+                }
+                //URP
+                else if(srpType.Contains("UniversalRenderPipelineAsset") || srpType.Contains("LightweightRenderPipelineAsset")) {
+                    return PipelineType.URP;
+                } else
+                    return PipelineType.Unsupported;
+            }
+#elif UNITY_2017_1_OR_NEWER
+        if (GraphicsSettings.renderPipelineAsset != null) {
+            // SRP not supported before 2019
+            return PipelineType.Unsupported;
+        }
+#endif
+            //BIRP
+            return PipelineType.BIRP;
+        }
+
+        static void AddDefine(string define) {
+            var definesList = GetDefines();
+            if(!definesList.Contains(define)) {
+                definesList.Add(define);
+                SetDefines(definesList);
+            }
+        }
+
+        public static void RemoveDefine(string define) {
+            var definesList = GetDefines();
+            if(definesList.Contains(define)) {
+                definesList.Remove(define);
+                SetDefines(definesList);
+            }
+        }
+
+        public static List<string> GetDefines() {
+            var target = EditorUserBuildSettings.activeBuildTarget;
+            var buildTargetGroup = BuildPipeline.GetBuildTargetGroup(target);
+            var defines = PlayerSettings.GetScriptingDefineSymbolsForGroup(buildTargetGroup);
+            return defines.Split(';').ToList();
+        }
+
+        public static void SetDefines(List<string> definesList) {
+            var target = EditorUserBuildSettings.activeBuildTarget;
+            var buildTargetGroup = BuildPipeline.GetBuildTargetGroup(target);
+            var defines = string.Join(";", definesList.ToArray());
+            PlayerSettings.SetScriptingDefineSymbolsForGroup(buildTargetGroup, defines);
+        }
+    }
+}

@@ -1,3 +1,28 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:761936d95a46c55b89ebe1b77f20389087271a4c677a2033e8809866da00c4a8
-size 626
+﻿#pragma kernel HistogramInitialize
+#pragma kernel HistogramMain
+
+Texture3D<float> VolumeTexture;
+float ValueRange;
+int3 Dimension;
+
+struct histStruct {
+	uint cnt;
+};
+RWStructuredBuffer<histStruct> HistogramBuffer;
+
+[numthreads(8, 1, 1)]
+void HistogramInitialize(uint3 id : SV_DispatchThreadID)
+{
+	HistogramBuffer[id.x].cnt = uint(0);
+}
+
+[numthreads(8, 8, 8)]
+void HistogramMain(uint3 id : SV_DispatchThreadID)
+{
+	if (id.x < uint(Dimension.x) && id.y < uint(Dimension.y) & id.z < uint(Dimension.z))
+	{
+		uint col = uint(floor(ValueRange * VolumeTexture[id.xyz] + 0.5f));
+
+		InterlockedAdd(HistogramBuffer[col].cnt, 1);
+	}
+}

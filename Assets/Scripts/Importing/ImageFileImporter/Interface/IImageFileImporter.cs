@@ -1,3 +1,22 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:62a999d469bf8d4e1bdd041e4ec6d441397b82299583cdd970959a3798113fe2
-size 490
+﻿using System;
+using System.Threading.Tasks;
+
+namespace UnityVolumeRendering
+{
+    public enum ImageFileFormat
+    {
+        VASP,
+        NRRD,
+        NIFTI
+    }
+
+    /// <summary>
+    /// Interface for single file dataset importers (NRRD, NIFTI, etc.).
+    /// These datasets contain only one single file.
+    /// </summary>
+    public interface IImageFileImporter
+    {
+        VolumeDataset Import(String filePath);
+        Task<VolumeDataset> ImportAsync(String filePath);
+    }
+}

@@ -1,3 +1,31 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:e76ec70b89501a0ebdbe7dd7661bd6df2fbf990e98c614e475a8655618f9d33c
-size 1105
+#if UNITY_2020_2_OR_NEWER
+using UnityEditor;
+using UnityEditor.AssetImporters;
+
+namespace UnityVolumeRendering
+{
+    [CustomEditor(typeof(RawScriptedImporter))]
+    public class RawScriptedImporterEditor : ScriptedImporterEditor
+    {
+        public override void OnInspectorGUI()
+        {
+            serializedObject.Update();
+
+            RawScriptedImporter importer = (RawScriptedImporter)target;
+            SerializedProperty dimension = serializedObject.FindProperty("dimension");
+            SerializedProperty dataFormat = serializedObject.FindProperty("dataFormat");
+            SerializedProperty endianness = serializedObject.FindProperty("endianness");
+            SerializedProperty bytesToSkip = serializedObject.FindProperty("bytesToSkip");
+            
+            EditorGUILayout.PropertyField(dimension);
+            EditorGUILayout.PropertyField(dataFormat);
+            EditorGUILayout.PropertyField(endianness);
+            EditorGUILayout.PropertyField(bytesToSkip);
+
+            serializedObject.ApplyModifiedProperties();
+
+            ApplyRevertGUI();
+        }
+    }
+}
+#endif

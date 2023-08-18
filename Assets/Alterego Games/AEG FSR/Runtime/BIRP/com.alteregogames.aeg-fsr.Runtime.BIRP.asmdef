@@ -1,3 +1,18 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:7db8b39fcd5b378ecd77fca83b6e2f8d2fd13f09f1dd3aaa0c393ceeb900e736
-size 453
+{
+    "name": "com.alteregogames.aeg-fsr.Runtime.BIRP",
+    "rootNamespace": "AEG.FSR",
+    "references": [
+        "com.alteregogames.aeg-fsr.Runtime"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [
+        "UNITY_BIRP"
+    ],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

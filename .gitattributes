@@ -1,0 +1,4 @@
+Patterns/You/Want/To/Include !text !filter !merge !diff
+Assets/** !text !filter !merge !diff
+Library/** !text !filter !merge !diff
+Oculus[[:space:]]Volume[[:space:]]Test_BackUpThisFolder_ButDontShipItWithYourGame/** !text !filter !merge !diff

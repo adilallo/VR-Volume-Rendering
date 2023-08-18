@@ -1,3 +1,25 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:10a6915e35a74a4a63cb1c11d099cc7c9f6d316ce0673b232ae44546ff5b82fd
-size 811
+﻿using UnityEngine;
+
+namespace UnityVolumeRendering
+{
+    public class NoiseTextureGenerator
+    {
+        public static Texture2D GenerateNoiseTexture(int noiseDimX, int noiseDimY)
+        {
+            Texture2D noiseTexture = new Texture2D(noiseDimX, noiseDimY);
+            Color[] noiseCols = new Color[noiseDimX * noiseDimY];
+            for (int iY = 0; iY < noiseDimY; iY++)
+            {
+                for (int iX = 0; iX < noiseDimX; iX++)
+                {
+                    float pixVal = Random.Range(0.0f, 1.0f);
+                    noiseCols[iX + iY * noiseDimX] = new Color(pixVal, pixVal, pixVal);
+                }
+            }
+
+            noiseTexture.SetPixels(noiseCols);
+            noiseTexture.Apply();
+            return noiseTexture;
+        }
+    }
+}

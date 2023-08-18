@@ -1,3 +1,20 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:7673c1f9bbbbd9db6a9b606e560cb7963d5bffd855e5d483be0891c1244cb520
-size 519
+using System.IO;
+using UnityEngine;
+using System;
+using UnityEditor;
+
+namespace UnityVolumeRendering
+{
+    public class ImporterUtilsInternal
+    {
+        public static void ConvertLPSToUnityCoordinateSpace(VolumeDataset volumeDataset)
+        {
+            volumeDataset.scale = new Vector3(
+                -volumeDataset.scale.x,
+                volumeDataset.scale.y,
+                volumeDataset.scale.z
+            );
+            volumeDataset.rotation = Quaternion.Euler(270.0f, 0.0f, 0.0f);
+        }
+    }
+}

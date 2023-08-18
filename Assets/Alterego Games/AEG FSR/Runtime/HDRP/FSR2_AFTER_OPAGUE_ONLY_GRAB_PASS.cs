@@ -1,3 +1,27 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:f1d06904d8ce99a5ef002e61c604efac52e33ec9b1d428c9e5b104600aae18b4
-size 945
+using UnityEngine;
+using UnityEngine.Rendering;
+using UnityEngine.Rendering.HighDefinition;
+
+namespace AEG.FSR
+{
+    public class FSR2_AFTER_OPAGUE_ONLY_GRAB_PASS : CustomPass
+    {
+        public FSR2_HDRP m_hdrp;
+        protected override void Setup(ScriptableRenderContext renderContext, CommandBuffer cmd) {
+        }
+
+        protected override void Execute(CustomPassContext ctx) {
+            if(m_hdrp == null) {
+                m_hdrp = ctx.hdCamera.camera.GetComponent<FSR2_HDRP>();
+            }
+            if(m_hdrp == null) {
+                return;
+            }
+            ctx.cmd.Blit(ctx.cameraColorBuffer, m_hdrp.m_afterOpaqueOnlyColorBuffer, ctx.cameraColorBuffer.rtHandleProperties.rtHandleScale, new Vector2(0, 0), 0, 0);
+            m_hdrp.m_genReactiveDescription.ColorPreUpscale = m_hdrp.m_afterOpaqueOnlyColorBuffer;
+        }
+
+        protected override void Cleanup() {
+        }
+    }
+}

@@ -1,3 +1,18 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:e16374f82ca5aa71f4c23cbd678c5277d63a42adbe37f3daf5c100a674c25aa6
-size 443
+{
+    "name": "com.alteregogames.aeg-fsr.Editor",
+    "rootNamespace": "AEG.FSR",
+    "references": [
+        "com.alteregogames.aeg-fsr.Runtime"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

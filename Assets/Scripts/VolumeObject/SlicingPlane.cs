@@ -1,3 +1,22 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:4fb2be7f626ca65a17cd66ac91921bcf07d0582ff09f87d5ba180972371ef34a
-size 646
+﻿using UnityEngine;
+
+namespace UnityVolumeRendering
+{
+    [ExecuteInEditMode]
+    public class SlicingPlane : MonoBehaviour
+    {
+        public VolumeRenderedObject targetObject;
+        private MeshRenderer meshRenderer;
+
+        private void Start()
+        {
+            meshRenderer = GetComponent<MeshRenderer>();
+        }
+
+        private void Update()
+        {
+            meshRenderer.sharedMaterial.SetMatrix("_parentInverseMat", transform.parent.worldToLocalMatrix);
+            meshRenderer.sharedMaterial.SetMatrix("_planeMat", transform.localToWorldMatrix); // TODO: allow changing scale
+        }
+    }
+}
